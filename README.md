@@ -6,6 +6,12 @@
 
 ## Demo
 
+Click on image below to play demo video:
+
+[![Project demo video](http://img.youtube.com/vi/86NOQNaHqg8/0.jpg)](https://youtu.be/86NOQNaHqg8)
+
+Images:
+
 ![Demo homepage](/demo/Screenshot_20200409_183322.png)
 ![Dashboard View](/demo/dashboard-view.png)
 ![Google Tag Manager](/demo/Screenshot_20200410_004900.png)
