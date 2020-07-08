@@ -1,7 +1,7 @@
 <template>
   <v-card class="justify-center" outlined :color="color" :width="width">
     <v-card-text>
-      <div :class="banClass">
+      <div :class="banclass">
         {{ ban }}
       </div>
     </v-card-text>
@@ -31,7 +31,7 @@ export default {
       type: String,
       default: 'Some Description'
     },
-    banClass: {
+    banclass: {
       type: String,
       default: 'display-2 text-center'
     }
