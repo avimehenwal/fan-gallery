@@ -8,7 +8,7 @@
 
 Click on image below to play demo video:
 
-[![Project demo video](http://img.youtube.com/vi/86NOQNaHqg8/0.jpg)](https://youtu.be/86NOQNaHqg8)
+[![Project demo video](http://img.youtube.com/vi/j6mWyxlNC-Q/0.jpg)](https://youtu.be/j6mWyxlNC-Q)
 
 Images:
 
