@@ -12,9 +12,10 @@ Click on image below to play demo video:
 
 Images:
 
-![Demo homepage](/demo/Screenshot_20200409_183322.png)
-![Dashboard View](/demo/dashboard-view.png)
+![Demo homepage](/demo/homescreen.png)
+![Dashboard View](/demo/dashboard.png)
 ![Google Tag Manager](/demo/Screenshot_20200410_004900.png)
+
 ---
 
 * What is an [anime]?
@@ -43,9 +44,6 @@ Images:
 * [ ] Add character details
 * [ ] Add data transform Mixin
 * [ ] Pass information from index page to description page using URL
-
-![charjs demo](/demo/chartjs.png)
-![Doughnut chartjs](/demo/doughnut-chart.png)
 
 ## Learning
 
@@ -99,3 +97,7 @@ items_1 = 1 + [0..] table_total_columns
 <a href="https://www.buymeacoffee.com/F1j07cV" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
  Spread Love :hearts: and not :no_entry_sign: hatred   [![Twitter Follow](https://img.shields.io/twitter/follow/avimehenwal.svg?style=social)](https://twitter.com/avimehenwal)
+
+
+![Full page dashboard view](/demo/fill-page-stats.png)
+![Full Home page](/demo/full-home-page.png)
