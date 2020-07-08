@@ -22,6 +22,7 @@
         "vue",
         "typo",
         "search",
-        "chart"
+        "chart",
+        "responsive"
     ]
 }

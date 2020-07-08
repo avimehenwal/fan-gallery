@@ -1,72 +1,60 @@
 <template>
   <div>
     <v-row>
-      <v-card width="20%" color="light-blue darken-4">
-        <v-card-text>
-          <div class="display-4 text-center grey--text text--lighten-4 font-weight-regular">
-            {{ ghUser.public_repos }}
-          </div>
-        </v-card-text>
-        <v-card-subtitle class="text-center font-weight-bold">
-          Public Repositories
-        </v-card-subtitle>
-      </v-card>
-      <v-spacer />
-      <v-card width="20%" outlined>
-        <v-card-text>
-          <div class="display-4 text-center blue--text text--lighten-3">
-            {{ ghUser.public_gists }}
-          </div>
-        </v-card-text>
-        <v-card-subtitle class="text-center font-weight-bold">
-          Public Gists
-        </v-card-subtitle>
-      </v-card>
-      <v-spacer />
-      <v-card width="20%" outlined>
-        <v-card-text>
-          <div class="display-4 text-center red--text text--lighten-3">
-            {{ ghUser.followers }}
-          </div>
-        </v-card-text>
-        <v-card-subtitle class="text-center font-weight-bold">
-          Githhub Followers
-        </v-card-subtitle>
-      </v-card>
-      <v-spacer />
-      <v-card width="20%" outlined>
-        <v-card-text>
-          <div class="display-4 text-center green--text text--lighten-3">
-            {{ ghUser.following }}
-          </div>
-        </v-card-text>
-        <v-card-subtitle class="text-center font-weight-bold">
-          Github Following
-        </v-card-subtitle>
-      </v-card>
+      <v-col cols="12" xs="6" sm="6" md="3">
+        <Tile
+          :ban="ghUser.public_repos"
+          color="light-blue darken-4"
+          desc="Public Repositories"
+          banClass="display-4 text-center grey--text text--lighten-4 font-weight-regular"
+        />
+      </v-col>
+      <v-col cols="12" xs="6" sm="6" md="3">
+        <Tile
+          :ban="ghUser.public_gists"
+          desc="Public Gists"
+          banClass="display-4 text-center blue--text text--lighten-3"
+        />
+      </v-col>
+      <v-col cols="12" xs="6" sm="6" md="3">
+        <Tile
+          :ban="ghUser.followers"
+          desc="Public Followers"
+          banClass="display-4 text-center red--text text--lighten-3"
+        />
+      </v-col>
+      <v-col cols="12" xs="6" sm="6" md="3">
+        <Tile
+          :ban="ghUser.following"
+          desc="Public Following"
+          banClass="display-4 text-center green--text text--lighten-3"
+        />
+      </v-col>
     </v-row>
-    <br>
     <v-row>
-      <v-card width="29%" outlined>
-        <v-card-title>
-          Project contributor(s)
-        </v-card-title>
-        <v-card-subtitle>
-          Number of people contributing to the project, with the volume of contributions
-        </v-card-subtitle>
-        <v-card-text>
-          <DoughnutChart :data="doughnutChartData" :options="{ legend: { display: false }, maintainAspectRatio: false }" />
-        </v-card-text>
-      </v-card>
-      <v-spacer />
-      <v-card width="70%" outlined right>
-        <v-card-title>
-          Commit Activity
-        </v-card-title>
-        <v-card-text>
-          <BarChart :data="barChartData" :options="{ maintainAspectRatio: false }" />
-        </v-card-text>
-      </v-card>
+      <v-col cols="12" xs="12" sm="12" md="7">
+        <v-card outlined right max-height="600">
+          <v-card-title>
+            Commit Activity
+          </v-card-title>
+          <v-card-text>
+            <BarChart :data="barChartData" :options="{ maintainAspectRatio: false }" />
+          </v-card-text>
+        </v-card>
+      </v-col>
+      <v-col cols="12" xs="12" sm="12" md="5">
+        <v-card outlined max-height="600">
+          <v-card-title>
+            Project contributor(s)
+          </v-card-title>
+          <v-card-subtitle>
+            Number of people contributing to the project, with the volume of contributions
+          </v-card-subtitle>
+          <v-card-text>
+            <DoughnutChart :data="doughnutChartData" :options="{ legend: { display: false }, maintainAspectRatio: false }" />
+          </v-card-text>
+        </v-card>
+      </v-col>
     </v-row>
   </div>
 </template>
@@ -130,7 +118,10 @@ export default {
       },
       ghUser
     }
-  }
+  },
+  data: () => ({
+    cards: 4
+  })
 }
 </script>
 

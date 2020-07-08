@@ -8,7 +8,9 @@
 * Hanafuda Earrings | It will cost you your Humanity
 * Deamon slayer core | 9 Pillars | 10 ranks
 * 12 Mooons | 6 upper moons | 6 lower moons
-* inokami Kagura | Flame Breathing != Fire Breathing
+* Hinokami Kagura | Flame Breathing != Fire Breathing
+* Nichirin Blade - made from ore which absorbs sunglight and containes it
+  * Nichirin = sun, found on mountain exposed to sun for an year
 
 <br>
 
