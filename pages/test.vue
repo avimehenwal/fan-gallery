@@ -1,19 +1,9 @@
 <template>
   <div>
-    <Hello />
-    <v-row>
-      <v-col v-for="item in items" :key="item.TITLE" cols="3">
-        <Card
-          :image="item.IMAGE"
-          :href="item.EXTERNAL"
-          :title="item.TITLE"
-          :desc="item.SUBTITLE"
-          :rating="item.RATING"
-          :to="item.TO"
-        />
-      </v-col>
-    </v-row>
+    <Dot />
 
+    <Hello />
+    <!-- Form Data -->
     <v-form ref="form" v-model="valid" lazy-validation>
       <v-text-field
         v-model="name"
@@ -59,13 +49,9 @@
 </template>
 
 <script>
-import Card from '@/components/Card.vue'
 import { sheetMixin } from '@/Mixins.js'
 
 export default {
-  components: {
-    Card
-  },
   mixins: [sheetMixin],
   data: () => ({
     SHEETPAGENUMBER: 3,

@@ -1,3 +1,7 @@
+---
+dotlanguage: digraph { node [fontsize=24, colorscheme=set312, style=filled] a [fillcolor=1] b [fillcolor=2] c [fillcolor=3] a -> b -> c }
+---
+
 # Anime Resources
 
 > Form of compelling storytelling and character development
@@ -19,3 +23,4 @@
   * https://www.reddit.com/r/Berserk/comments/7wrc0p/berserk_manga_hiatus_chart_im_new_to_reddit_so/
   * https://myanimelist.net/forum/?topicid=1602046
 
+<dot :code="dotlanguage"></dot>
