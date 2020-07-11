@@ -6,28 +6,28 @@
           :ban="ghUser.public_repos"
           color="light-blue darken-4"
           desc="Public Repositories"
-          banclass="display-4 text-center grey--text text--lighten-4 font-weight-regular"
+          banclass="grey--text text--lighten-4 font-weight-regular"
         />
       </v-col>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
           :ban="ghUser.public_gists"
           desc="Public Gists"
-          banclass="display-4 text-center blue--text text--lighten-3"
+          banclass="blue--text text--lighten-3"
         />
       </v-col>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
           :ban="ghUser.followers"
           desc="Public Followers"
-          banclass="display-4 text-center red--text text--lighten-3"
+          banclass="red--text text--lighten-3"
         />
       </v-col>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
           :ban="ghUser.following"
           desc="Public Following"
-          banclass="display-4 text-center green--text text--lighten-3"
+          banclass="green--text text--lighten-3"
         />
       </v-col>
     </v-row>
