@@ -1,10 +1,11 @@
-# fan-gallery
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0cb96c66-4baa-4eb2-bc20-ae8616ac584d/deploy-status)](https://app.netlify.com/sites/fangallery/deploys)
+
+# :neckbeard: fan-gallery  [![Netlify Status](https://api.netlify.com/api/v1/badges/0cb96c66-4baa-4eb2-bc20-ae8616ac584d/deploy-status)](https://app.netlify.com/sites/fangallery/deploys)
 
 > Personal showcase of my favourite anime collection
 
-## Demo
+## :movie_camera: Demo
 
 Click on image below to play demo video:
 
@@ -29,7 +30,7 @@ Images:
 [webtoon]: https://en.wikipedia.org/wiki/Webtoon
 [zine]: https://en.wikipedia.org/wiki/Zine
 
-## ToDO
+## :ledger: ToDO
 
 * [x] Add anime list
 * [x] Add manga details
@@ -45,7 +46,7 @@ Images:
 * [ ] Add data transform Mixin
 * [ ] Pass information from index page to description page using URL
 
-## Learning
+## :closed_book: Learning
 
 * Image lazy loading
 * force client side rendering
@@ -58,13 +59,13 @@ yarn upgrade nuxt@^2.13.3
 yarn outdated
 ```
 
-## Issues
+## :beetle: Issues
 
 * https://stackoverflow.com/questions/5881139/how-to-block-iframe-call
 * https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json
 
 
-### Parsing data from google sheets
+### :tractor: Parsing data from google sheets
 
 * The JSON retrieves data from each cell starting from the top-left most and then pushes the data one by one into an array.
 * [Find the formula for all index belonging to a certain table column](https://medium.com/dali-lab/google-sheets-and-json-easy-backend-e29e9ef3df2)
@@ -78,13 +79,29 @@ items_1 = 1 + [0..] table_total_columns
 1, 7, 13, 19
 ```
 
-## Resources
+## :boat: Resources
 
 * https://www.grapecity.com/blogs/adding-excel-import-and-export-to-your-vue-app
 * https://stackoverflow.com/questions/44312494/how-to-create-per-workspace-snippets-in-vscode
 
+## :monkey: Project Links
 
-#### Get in touch with me
+:link: [Link to release](https://github.com/avimehenwal/fan-gallery/releases)
+
+:link: [Link to changelog](./CHANGELOG.md)
+
+:star: [Suggest improvements or share ideas or start a conversation][issue]
+
+[issue]: https://github.com/avimehenwal/fan-gallery/issues
+
+
+## :herb: License
+
+MIT
+
+---
+
+#### :pray: Get in touch with me
 
 > I am looking for Jobs ... :sunglasses:
 
