@@ -1,6 +1,8 @@
 <template>
   <div>
-    <h1 class="font-weight-thin"> Git Stats for {{ gitRepo }} </h1>
+    <h1 class="font-weight-thin">
+      Git Stats for {{ gitRepo }}
+    </h1>
     <v-row>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
@@ -36,7 +38,7 @@
     <v-row>
       <v-col cols="12" xs="12" sm="12" md="7">
         <v-card outlined right max-height="600">
-          <v-card-title>
+          <v-card-title class="justify-center">
             Commit Activity
           </v-card-title>
           <v-card-text>
@@ -46,19 +48,21 @@
       </v-col>
       <v-col cols="12" xs="12" sm="12" md="5">
         <v-card outlined max-height="600">
-          <v-card-title>
-            Project contributor(s)
+          <v-card-title class="justify-center">
+            <v-chip class="ma-2" color="primary">
+              {{ numContributors }}
+            </v-chip>
+            Project contributor
           </v-card-title>
-          <v-card-subtitle>
-            Number of people contributing to the project, with the volume of contributions
-          </v-card-subtitle>
           <v-card-text>
             <DoughnutChart :data="doughnutChartData" :options="{ legend: { display: false }, maintainAspectRatio: false }" />
           </v-card-text>
+          <v-card-subtitle>
+            Number of people contributing to the project, with the volume of contributions
+          </v-card-subtitle>
         </v-card>
       </v-col>
     </v-row>
-    {{ contributorUrl }}
   </div>
 </template>
 
@@ -119,7 +123,8 @@ export default {
           }
         ]
       },
-      ghUser
+      ghUser,
+      contributors
     }
   },
   data: () => ({
@@ -130,6 +135,9 @@ export default {
     },
     gitRepo () {
       return this.$store.getters.gitRepo
+    },
+    numContributors () {
+      return this.contributors.length
     }
   }
 }
