@@ -57,6 +57,7 @@
         </v-card>
       </v-col>
     </v-row>
+    {{ repoUrl }} {{ contributorUrl }}
   </div>
 </template>
 
@@ -84,17 +85,17 @@ export default {
     BarChart
   },
   async asyncData ({ $http, env }) {
-    let contributors = await $http.$get(this.contributorUrl, {
+    let contributors = await $http.$get(this.url, {
       headers: {
         Authorization: `token ${env.githubToken}`
       }
     })
-    const stats = await $http.$get(this.commitActivityUrl, {
+    const stats = await $http.$get('https://api.github.com/repos/avimehenwal/fan-gallery/stats/commit_activity', {
       headers: {
         Authorization: `token ${env.githubToken}`
       }
     })
-    const ghUser = await $http.$get(this.userUrl)
+    const ghUser = await $http.$get('https://api.github.com/users/avimehenwal')
     contributors = contributors.filter(c => c.contributions >= 10 && !isBot(c.login))
     return {
       barChartData: {
@@ -123,7 +124,8 @@ export default {
   data: () => ({
     base: 'https://api.github.com/',
     user: 'avimehenwal',
-    repo: 'fan-gallery'
+    repo: 'fan-gallery',
+    url: 'https://api.github.com/repos/avimehenwal/fan-gallery/contributors'
   }),
   computed: {
     repoUrl () {

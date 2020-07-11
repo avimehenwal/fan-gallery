@@ -23,6 +23,7 @@
         "typo",
         "search",
         "chart",
-        "responsive"
+        "responsive",
+        "nuxtjs"
     ]
 }
