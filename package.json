@@ -1,6 +1,6 @@
 {
   "name": "fan-gallery",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "description": "My beautiful Fan project",
   "author": "avimehenwal",
   "private": true,
@@ -10,9 +10,11 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "@hpcc-js/wasm": "^0.3.14",
     "@nuxt/components": "^1.0.7",
     "@nuxt/content": "^1.4.1",
@@ -39,11 +41,29 @@
     "cz-emoji": "^1.2.1",
     "eslint": "^6.1.0",
     "eslint-plugin-nuxt": ">=0.4.2",
+    "husky": "^4.2.5",
+    "semantic-release": "^17.1.1",
+    "semantic-release-cli": "^5.3.1",
     "standard-changelog": "^2.0.24"
+  },
+  "husky": {
+    "hooks": {
+      "prepare-commit-msg": "exec < /dev/tty && git cz --hook || true",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "npm lint",
+      "pre-push": "npm generate"
+    }
   },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avimehenwal/fan-gallery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avimehenwal/fan-gallery/issues"
   }
 }
