@@ -24,6 +24,7 @@
         "search",
         "chart",
         "responsive",
-        "nuxtjs"
+        "nuxtjs",
+        "store"
     ]
 }

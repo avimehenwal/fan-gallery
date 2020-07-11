@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1 class="font-weight-thin"> Git Stats for {{ gitRepo }} </h1>
     <v-row>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
@@ -57,7 +58,7 @@
         </v-card>
       </v-col>
     </v-row>
-    {{ repoUrl }} {{ contributorUrl }}
+    {{ contributorUrl }}
   </div>
 </template>
 
@@ -84,18 +85,18 @@ export default {
     DoughnutChart,
     BarChart
   },
-  async asyncData ({ $http, env }) {
-    let contributors = await $http.$get(this.url, {
+  async asyncData ({ $http, env, store }) {
+    let contributors = await $http.$get(store.getters.contributorUrl, {
       headers: {
         Authorization: `token ${env.githubToken}`
       }
     })
-    const stats = await $http.$get('https://api.github.com/repos/avimehenwal/fan-gallery/stats/commit_activity', {
+    const stats = await $http.$get(store.getters.commitActivityUrl, {
       headers: {
         Authorization: `token ${env.githubToken}`
       }
     })
-    const ghUser = await $http.$get('https://api.github.com/users/avimehenwal')
+    const ghUser = await $http.$get(store.getters.userUrl)
     contributors = contributors.filter(c => c.contributions >= 10 && !isBot(c.login))
     return {
       barChartData: {
@@ -122,23 +123,13 @@ export default {
     }
   },
   data: () => ({
-    base: 'https://api.github.com/',
-    user: 'avimehenwal',
-    repo: 'fan-gallery',
-    url: 'https://api.github.com/repos/avimehenwal/fan-gallery/contributors'
   }),
   computed: {
-    repoUrl () {
-      return this.base + 'repos/' + this.user + '/' + this.repo
-    },
     contributorUrl () {
-      return this.repoUrl + '/contributors'
+      return this.$store.getters.contributorUrl
     },
-    commitActivityUrl () {
-      return this.repoUrl + '/stats/commit_activity'
-    },
-    userUrl () {
-      return this.base + 'users/' + this.user
+    gitRepo () {
+      return this.$store.getters.gitRepo
     }
   }
 }
