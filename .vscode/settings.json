@@ -25,6 +25,7 @@
         "chart",
         "responsive",
         "nuxtjs",
-        "store"
+        "store",
+        "markdown-content"
     ]
 }
