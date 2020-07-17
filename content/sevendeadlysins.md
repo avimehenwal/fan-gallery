@@ -1,5 +1,7 @@
 # Seven Deadly Sins
 
+* [Horn_of_Cernunnos](https://nanatsu-no-taizai.fandom.com/wiki/Horn_of_Cernunnos)
+* The COffin of Eternal Darkness
 
 ## 4 Archangels
 
@@ -32,11 +34,13 @@ Can summon **Domain of god**
 * Estarossa Love
 * Fraudrin † Selflessness
 * Galand † Truth
+  * Chaotic judgement
 - Gloxinia † Repose
   * Droplet of Life
 - Grayroad | Pacifism
 - Melascula Faith
   * Cacoon Of Darkness
+  * Vengeful Soul Resseruction Law
 - Zeldris (Leader) Piety
 
 ## 7 Sins
@@ -50,7 +54,21 @@ Can summon **Domain of god**
 3. Ban
    1. Zero Sign
    2. Fox hunt
-4. Merlin
+4. Merlin - Morning Start Aldan
    1. Exterminate Ray
    2. Infinity
    3. Endless Whirl
+
+## Others
+
+* Magic Stabilizers
+* Sacred treasure release
+* Village of Druids - power ups
+  * sages of the forest
+* divide and conquer technique
+* Hawks
+  * Whatever he eats, he takes some of its magical properties
+* Cant I protect anyone I love
+* Commandments unleas a combined assault on meliodas
+* Druids - religions leaders adjudicator
+* Holy Arc
