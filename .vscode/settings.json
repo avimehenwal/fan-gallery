@@ -29,6 +29,7 @@
         "markdown-content",
         "security",
         "data",
-        "github-actions"
+        "github-actions",
+        "git"
     ]
 }

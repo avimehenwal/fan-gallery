@@ -1,7 +1,9 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0cb96c66-4baa-4eb2-bc20-ae8616ac584d/deploy-status)](https://app.netlify.com/sites/fangallery/deploys)
+![Build production bundles (using cache)](https://github.com/avimehenwal/fan-gallery/workflows/Build%20production%20bundles%20(using%20cache)/badge.svg)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 
-# :neckbeard: fan-gallery  [![Netlify Status](https://api.netlify.com/api/v1/badges/0cb96c66-4baa-4eb2-bc20-ae8616ac584d/deploy-status)](https://app.netlify.com/sites/fangallery/deploys)
+# :neckbeard: fan-gallery
 
 > Personal showcase of my favourite anime collection
 
