@@ -3,7 +3,7 @@
     <!-- # of items loaded panel -->
     <v-row>
       <v-alert dense text outlined type="success">
-        <strong> {{ records }} </strong> Records loaded ...
+        <strong> {{ cardsCount }} </strong> Records
       </v-alert>
       <v-spacer />
       <v-text-field
@@ -12,13 +12,15 @@
         label="Filter Cards"
         single-line
         hide-details
+        clearable
+        counter
       />
     </v-row>
 
     <!-- Grid card layout -->
     <div v-if="grid">
       <v-row>
-        <v-col v-for="(item) in items" :key="item.TITLE" cols="12" :md="cards">
+        <v-col v-for="(item) in filteredCards" :key="item.TITLE" cols="12" :md="cards">
           <Card
             :image="item.IMAGE"
             :href="item.EXTERNAL"
@@ -110,6 +112,7 @@
 </template>
 
 <script>
+import _ from 'lodash'
 import { sheetMixin } from '@/Mixins.js'
 import Comments from '@/components/Comments.vue'
 import Card from '@/components/Card.vue'
@@ -131,13 +134,13 @@ export default {
     search: ''
   }),
   computed: {
-    itemsLength () {
-      return this.filteredCards.length
+    cardsCount () {
+      return _.size(this.filteredCards)
     },
     filteredCards () {
       // TypeError: Cannot read property 'match' of undefined
-      return this.items.filter((imageObj) => {
-        return imageObj.pathShort.match(this.search)
+      return this.items.filter((cardObject) => {
+        return cardObject.TITLE.match(this.search)
       })
     },
     cards () {
