@@ -5,6 +5,10 @@
 
 > Personal showcase of my favourite anime collection
 
+## :sparkles: Live [Link][url]
+
+[url]: https://fangallery.netlify.app/
+
 ## :movie_camera: Demo
 
 Click on image below to play demo video:

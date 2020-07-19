@@ -92,14 +92,15 @@ export default {
   },
   data: () => ({
     loading: true,
-    transition: 'fade-transition'
+    transition: 'fade-transition',
+    loadingtime: 0
   }),
   mounted () {
     this.wait()
   },
   methods: {
     wait () {
-      setTimeout(this.stop_loading, 2500)
+      setTimeout(this.stop_loading, this.loadingtime)
     },
     stop_loading () {
       this.loading = false

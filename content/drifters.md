@@ -37,5 +37,8 @@ Battle in a brand new world war
 * The Elven Revolt spreads
 * Your spirit leaves this realm, honor intact
 
+## Questions
+
+1. Whats that eye in sky?
 
 <Footer />

@@ -68,7 +68,7 @@
           <v-spacer />
         </v-toolbar>
         <v-list two-line subheader>
-          <v-list-item v-for="item in items" :key="item.TITLE" :href="item.TO">
+          <v-list-item v-for="item in filteredCards" :key="item.TITLE" :href="item.TO">
             <v-list-item-avatar>
               <v-img :src="item.IMAGE" />
             </v-list-item-avatar>
@@ -113,7 +113,7 @@
 
 <script>
 import _ from 'lodash'
-import { sheetMixin } from '@/Mixins.js'
+// import { sheetMixin } from '@/Mixins.js'
 import Comments from '@/components/Comments.vue'
 import Card from '@/components/Card.vue'
 
@@ -122,7 +122,6 @@ export default {
     Comments,
     Card
   },
-  mixins: [sheetMixin],
   data: () => ({
     // SHEETPAGENUMBER: 5,
     // COLUMNS: 6,
@@ -131,20 +130,35 @@ export default {
     grid: true,
     numCards: 4,
     numCardsValues: [1, 2, 3, 4, 5, 6],
-    search: ''
+    search: '',
+    items: []
   }),
   computed: {
     cardsCount () {
       return _.size(this.filteredCards)
     },
     filteredCards () {
-      // TypeError: Cannot read property 'match' of undefined
       return this.items.filter((cardObject) => {
         return cardObject.TITLE.match(this.search)
       })
     },
     cards () {
       return (12 / this.numCards)
+    }
+  },
+  // mixins: [sheetMixin],
+  created () {
+    this.readCSVData()
+  },
+  methods: {
+    async readCSVData () {
+      const result = await this.$content('animes')
+      // .only(['title', 'slug', 'body'])
+      // .sortBy('createdAt', 'asc')
+      // .limit(12)
+        // .search(query)
+        .fetch()
+      this.items = result.body
     }
   }
 }
