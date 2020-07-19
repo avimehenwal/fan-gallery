@@ -1,7 +1,7 @@
 <template>
   <v-card class="justify-center" outlined :color="color" :width="width">
     <v-card-text>
-      <div :class="banclass">
+      <div :class="baseplus">
         {{ ban }}
       </div>
     </v-card-text>
@@ -34,6 +34,14 @@ export default {
     banclass: {
       type: String,
       default: 'display-2 text-center'
+    }
+  },
+  data: () => ({
+    base: 'display-4 text-center '
+  }),
+  computed: {
+    baseplus () {
+      return this.base + this.banclass
     }
   }
 }

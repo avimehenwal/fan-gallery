@@ -1,9 +1,12 @@
+// retrieve data from public google sheet
+// https://docs.google.com/spreadsheets/d/e/2PACX-1vT3QlL3ODPrb_pDyhNIfWSV2V04CGUNMuiyxPOLvGl7v61XX08Gy32_uh3J8MmRcPqYoIqwC1lmVbNt/pubhtml#
+
 export const sheetMixin = {
   created () {
     this.fetchData()
   },
   data: () => ({
-    SHEETPAGENUMBER: 1,
+    SHEETPAGENUMBER: 5,
     COLUMNS: 6,
     records: null,
     items: [],

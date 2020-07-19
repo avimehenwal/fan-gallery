@@ -121,8 +121,8 @@ export default {
   },
   mixins: [sheetMixin],
   data: () => ({
-    SHEETPAGENUMBER: 3,
-    COLUMNS: 6,
+    // SHEETPAGENUMBER: 5,
+    // COLUMNS: 6,
     shaped: false,
     large: false,
     grid: true,

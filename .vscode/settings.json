@@ -23,6 +23,11 @@
         "typo",
         "search",
         "chart",
-        "responsive"
+        "responsive",
+        "nuxtjs",
+        "store",
+        "markdown-content",
+        "security",
+        "data"
     ]
 }
