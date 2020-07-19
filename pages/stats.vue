@@ -1,40 +1,44 @@
 <template>
   <div>
+    <h1 class="font-weight-thin">
+      Git Stats for {{ gitRepo }}
+    </h1>
     <v-row>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
           :ban="ghUser.public_repos"
           color="light-blue darken-4"
           desc="Public Repositories"
-          banclass="display-4 text-center grey--text text--lighten-4 font-weight-regular"
+          banclass="grey--text text--lighten-4 font-weight-regular"
         />
       </v-col>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
           :ban="ghUser.public_gists"
           desc="Public Gists"
-          banclass="display-4 text-center blue--text text--lighten-3"
+          banclass="blue--text text--lighten-3"
         />
       </v-col>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
           :ban="ghUser.followers"
           desc="Public Followers"
-          banclass="display-4 text-center red--text text--lighten-3"
+          banclass="red--text text--lighten-3"
         />
       </v-col>
       <v-col cols="12" xs="6" sm="6" md="3">
         <Tile
           :ban="ghUser.following"
           desc="Public Following"
-          banclass="display-4 text-center green--text text--lighten-3"
+          banclass="green--text text--lighten-3"
         />
       </v-col>
     </v-row>
+
     <v-row>
       <v-col cols="12" xs="12" sm="12" md="7">
         <v-card outlined right max-height="600">
-          <v-card-title>
+          <v-card-title class="justify-center">
             Commit Activity
           </v-card-title>
           <v-card-text>
@@ -44,15 +48,18 @@
       </v-col>
       <v-col cols="12" xs="12" sm="12" md="5">
         <v-card outlined max-height="600">
-          <v-card-title>
-            Project contributor(s)
+          <v-card-title class="justify-center">
+            <v-chip class="ma-2" color="primary">
+              {{ numContributors }}
+            </v-chip>
+            Project contributor
           </v-card-title>
-          <v-card-subtitle>
-            Number of people contributing to the project, with the volume of contributions
-          </v-card-subtitle>
           <v-card-text>
             <DoughnutChart :data="doughnutChartData" :options="{ legend: { display: false }, maintainAspectRatio: false }" />
           </v-card-text>
+          <v-card-subtitle>
+            Number of people contributing to the project, with the volume of contributions
+          </v-card-subtitle>
         </v-card>
       </v-col>
     </v-row>
@@ -82,18 +89,18 @@ export default {
     DoughnutChart,
     BarChart
   },
-  async asyncData ({ $http, env }) {
-    let contributors = await $http.$get('https://api.github.com/repos/avimehenwal/fan-gallery/contributors', {
+  async asyncData ({ $http, env, store }) {
+    let contributors = await $http.$get(store.getters.contributorUrl, {
       headers: {
         Authorization: `token ${env.githubToken}`
       }
     })
-    const stats = await $http.$get('https://api.github.com/repos/avimehenwal/fan-gallery/stats/commit_activity', {
+    const stats = await $http.$get(store.getters.commitActivityUrl, {
       headers: {
         Authorization: `token ${env.githubToken}`
       }
     })
-    const ghUser = await $http.$get('https://api.github.com/users/avimehenwal')
+    const ghUser = await $http.$get(store.getters.userUrl)
     contributors = contributors.filter(c => c.contributions >= 10 && !isBot(c.login))
     return {
       barChartData: {
@@ -116,12 +123,23 @@ export default {
           }
         ]
       },
-      ghUser
+      ghUser,
+      contributors
     }
   },
   data: () => ({
-    cards: 4
-  })
+  }),
+  computed: {
+    contributorUrl () {
+      return this.$store.getters.contributorUrl
+    },
+    gitRepo () {
+      return this.$store.getters.gitRepo
+    },
+    numContributors () {
+      return this.contributors.length
+    }
+  }
 }
 </script>
 

@@ -32,6 +32,7 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
+    '~/plugins/googlecharts.js'
     // file do not exists
     // {
     //   src: '~/plugins/vue-chart.js', mode: 'client'
