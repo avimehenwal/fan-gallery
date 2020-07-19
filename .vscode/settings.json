@@ -27,6 +27,7 @@
         "nuxtjs",
         "store",
         "markdown-content",
-        "security"
+        "security",
+        "data"
     ]
 }
