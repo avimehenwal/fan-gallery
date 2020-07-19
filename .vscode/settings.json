@@ -28,6 +28,7 @@
         "store",
         "markdown-content",
         "security",
-        "data"
+        "data",
+        "github-actions"
     ]
 }

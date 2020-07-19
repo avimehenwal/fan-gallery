@@ -5,10 +5,11 @@
   "author": "avimehenwal",
   "private": true,
   "scripts": {
-    "dev": "nuxt",
+    "dev": "nuxt --open",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
+    "generate": "nuxt build && nuxt export",
+    "production": "yarn run build && yarn run start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "commit": "git-cz",
     "semantic-release": "semantic-release"
