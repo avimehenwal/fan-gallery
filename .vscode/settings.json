@@ -26,6 +26,7 @@
         "responsive",
         "nuxtjs",
         "store",
-        "markdown-content"
+        "markdown-content",
+        "security"
     ]
 }
