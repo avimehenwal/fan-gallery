@@ -53,6 +53,7 @@
 </template>
 
 <script>
+import _ from 'lodash'
 import Comments from '@/components/Comments.vue'
 
 export default {
@@ -69,7 +70,8 @@ export default {
   },
   computed: {
     itemLength () {
-      return this.filteredImages.length
+      // return this.filteredImages.length
+      return _.size(this.filteredImages)
     },
     filteredImages () {
       return this.images.filter((imageObj) => {
