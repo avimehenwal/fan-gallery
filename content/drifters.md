@@ -10,6 +10,15 @@ tags:
 
 Battle in a brand new world war
 
+## Seasons
+
+Status | Season Name
+-------|----------------
+seen | Drifters: Season 1
+seen | Drifters: Specials
+seen | Drifters: OVA
+
+
 ## Characters
 
 * Grandmaster - Octsystem organization,Octoberist
@@ -36,6 +45,8 @@ Battle in a brand new world war
 * defeated local Magistrate
 * The Elven Revolt spreads
 * Your spirit leaves this realm, honor intact
+* Their lives are forfeit.
+
 
 ## Questions
 

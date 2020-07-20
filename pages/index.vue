@@ -1,10 +1,27 @@
 <template>
   <v-container>
     <!-- # of items loaded panel -->
-    <v-row>
+    <v-row dense no-gutters>
       <v-alert dense text outlined type="success">
         <strong> {{ cardsCount }} </strong> Records
       </v-alert>
+      <v-spacer />
+      <v-col cols="2" md="2" sm="12">
+        <v-select
+          v-model="sortKey"
+          :items="sortKeys"
+          label="sort key"
+          dense
+        />
+      </v-col>
+      <v-col cols="2" md="2" sm="12">
+        <v-select
+          v-model="sortOrder"
+          :items="sortOrders"
+          label="sort order"
+          dense
+        />
+      </v-col>
       <v-spacer />
       <v-text-field
         v-model="search"
@@ -131,7 +148,11 @@ export default {
     numCards: 4,
     numCardsValues: [1, 2, 3, 4, 5, 6],
     search: '',
-    items: []
+    items: [],
+    sortKeys: ['TITLE', 'SUBTITLE', 'RATING', 'IMAGE', 'EXTERNAL', 'TO'],
+    sortOrders: ['asc', 'desc'],
+    sortKey: 'TITLE',
+    sortOrder: 'asc'
   }),
   computed: {
     cardsCount () {
@@ -144,6 +165,15 @@ export default {
     },
     cards () {
       return (12 / this.numCards)
+    }
+  },
+  watch: {
+    // whenever this.sortKey changes, this function will run
+    sortKey () {
+      this.dataSortby()
+    },
+    sortOrder () {
+      this.dataSortby()
     }
   },
   // mixins: [sheetMixin],
@@ -159,6 +189,9 @@ export default {
         // .search(query)
         .fetch()
       this.items = result.body
+    },
+    dataSortby () {
+      this.items = _.orderBy(this.items, [this.sortKey], [this.sortOrder])
     }
   }
 }
