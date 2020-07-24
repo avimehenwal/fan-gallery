@@ -160,7 +160,7 @@ export default {
     },
     filteredCards () {
       return this.items.filter((cardObject) => {
-        return cardObject.TITLE.match(this.search)
+        return cardObject.TITLE.toLowerCase().match(this.search.toLowerCase())
       })
     },
     cards () {
