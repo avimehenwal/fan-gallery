@@ -76,7 +76,7 @@ export default {
   axios: {
   },
   content: {
-    // Options
+    nestedProperties: ['animes.slug']
   },
   /*
   ** vuetify module configuration
