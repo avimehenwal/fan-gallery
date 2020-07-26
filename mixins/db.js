@@ -9,9 +9,10 @@ export const db = {
   // },
   data: () => ({
     md: '', // markdown filename
+    bg: 'Link',
+    fandom: 'Link',
     wiki: 'Link',
     imdb: '/',
-    news: '/',
     manga: '/',
     item: '',
     doc: '',
@@ -20,7 +21,7 @@ export const db = {
     ]
   }),
   mounted () {
-    this.md = this.$route.params.id
+    this.md = this.$route.params.slug
     this.getMD(this.md) // doc
     this.getInfo() // item
   },
@@ -32,12 +33,31 @@ export const db = {
       // this.item = result
       // lodash to filter as where query not working
       const path = '/' + this.md
-      // console.log('Filtering using ' + path)
+      // const path = this.md
+      console.log('Filtering using ' + path)
       this.item = _.filter(result.body, { TO: path })[0]
     },
     async getMD (name) {
       console.log('ARG:Filename = ' + name)
       this.doc = await this.$content(name).fetch()
+    }
+  },
+  computed: {
+    getNewsURL () {
+      // https://news.google.com/search?
+      // q=One%20punch%20%20man
+      // &hl=en-US
+      // &gl=US
+      // &ceid=US%3Aen
+      const news = new URL('https://news.google.com/search')
+      news.searchParams.append('q', this.title)
+      news.searchParams.append('hl', 'en-US')
+      news.searchParams.append('gl', 'US')
+      console.log('google news = ' + news)
+      return news.toString()
+    },
+    title () {
+      return this.item.TITLE
     }
   }
 }

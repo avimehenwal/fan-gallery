@@ -4,7 +4,7 @@ tags:
 - dragon
 ---
 
-# HOw to Train your Dragon
+# How to Train your Dragon
 
 <TagLinks />
 

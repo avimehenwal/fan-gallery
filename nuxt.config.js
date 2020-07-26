@@ -6,7 +6,21 @@ export default {
   components: true,
   generate: {
     routes: [
-      '/anime/klk',
+      'kaiji',
+      'index',
+      'kakegurui',
+      'castlevania',
+      'drifters',
+      'neverland',
+      'opm',
+      'resources',
+      'trsh',
+      'htryd',
+      'sevendeadlysins',
+      'beasters',
+      'article',
+      'klk',
+      'deamonslayer'
     ]
   },
   /*
