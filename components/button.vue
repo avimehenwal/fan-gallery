@@ -1,10 +1,12 @@
 <template>
-  <v-btn outlined text :href="href" target="_blank">
-    {{ text }}
-    <v-icon right color="primary">
-      mdi-microsoft-internet-explorer
-    </v-icon>
-  </v-btn>
+  <span v-if="href != '/'">
+    <v-btn outlined text :href="href" target="_blank">
+      {{ text }}
+      <v-icon right color="primary">
+        mdi-microsoft-internet-explorer
+      </v-icon>
+    </v-btn>
+  </span>
 </template>
 
 <script>

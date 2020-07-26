@@ -4,6 +4,11 @@ export default {
   target: 'static',
   mode: 'universal',
   components: true,
+  generate: {
+    routes: [
+      '/anime/klk',
+    ]
+  },
   /*
   ** Headers of the page
   */
