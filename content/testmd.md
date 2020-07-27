@@ -1,8 +1,30 @@
-# Test Markdown
+# :star2: Test Markdown
 
 <nuxt-link to="/test">
   Test Vue <Page></Page>
 </nuxt-link>
+
+## :100: Latex
+
+$\sqrt{3x-1}+(1+x)^2$
+
+Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following equation.
+
+$$
+L = \frac{1}{2} \rho v^2 S C_L
+$$
+
+<Box>
+  <template v-slot:header>
+    W3<br>CSS
+  </template>
+  <template v-slot:body>
+    <h2>Modern Responsive CSS</h2>
+    <p>Equality for all browsers: Chrome. Firefox Edge. IE. Safari. Opera.</p>
+    <p>Equality for all devices: Desktop. Laptop. Tablet. Mobile.</p>
+    <p>Standard CSS only (No jQuery or JavaScript library).</p>
+  </template>
+</Box>
 
 > this is markdown yay!
 
