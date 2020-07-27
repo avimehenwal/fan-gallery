@@ -10256,7 +10256,7 @@ mdast-util-to-hast@^9.1.0:
     unist-util-position "^3.0.0"
     unist-util-visit "^2.0.0"
 
-mdast-util-to-string@^1.0.0:
+mdast-util-to-string@^1.0.0, mdast-util-to-string@^1.0.7:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/mdast-util-to-string/-/mdast-util-to-string-1.1.0.tgz#27055500103f51637bd07d01da01eb1967a43527"
   integrity sha512-jVU0Nr2B9X3MU4tSK7JP1CMkSvOj7X5l/GboG1tKRw52lLF1x2Ju92Ms9tNetCcbfX3hzlM73zYo2NKkWSfF/A==
@@ -13502,6 +13502,14 @@ remark-container@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/remark-container/-/remark-container-0.1.2.tgz#02a54ed7b44365d863bcf31a672d397f9db3d8ac"
   integrity sha512-E+G7dSALm3aMqyi15N4DxnRFQmBbHwxVc+9GrbijqwbdHzagUDvi2A3oI27y/PwLkSDRjwMfoc1rCIZayZ2PFg==
+
+remark-deflist@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/remark-deflist/-/remark-deflist-0.2.1.tgz#493ab02270ed89557bc7af228c63df538c5f2f1e"
+  integrity sha512-8cdfc3X0ZPKGUsVgdJy48iCFkhNtvrMc0ue8XDlplI2qQZA0zeXRoVqG3unYMsa6Lapc97WgxB4fK62XRD6YEw==
+  dependencies:
+    mdast-util-to-string "^1.0.7"
+    unist-util-visit "^2.0.1"
 
 remark-emoji@^2.1.0:
   version "2.1.0"

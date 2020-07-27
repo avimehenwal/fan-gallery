@@ -13,7 +13,7 @@
     "production": "yarn run build && yarn run start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "commit": "git-cz",
-    "semantic-release": "semantic-release"
+    "sr": "semantic-release"
   },
   "dependencies": {
     "-": "^0.0.1",
@@ -58,6 +58,7 @@
     "markdown-it-emoji": "^1.4.0",
     "markdown-it-katex": "^2.0.3",
     "rehype-katex": "^3.0.0",
+    "remark-deflist": "^0.2.1",
     "remark-math": "^2.0.1",
     "semantic-release": "^17.1.1",
     "semantic-release-cli": "^5.3.1",

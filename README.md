@@ -19,6 +19,7 @@ Click on image below to play demo video:
 
 Images:
 
+![Webpack Analyze](/demo/analyze.png)
 ![Demo homepage](/demo/homescreen.png)
 ![Dashboard View](/demo/dashboard.png)
 ![Google Tag Manager](/demo/Screenshot_20200410_004900.png)

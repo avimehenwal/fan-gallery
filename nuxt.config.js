@@ -115,6 +115,8 @@ export default {
         '@fec/remark-a11y-emoji',
         'remark-container',
         'remark-graphviz',
+        'remark-deflist',
+        'remark-rehype',
         'remark-emoji',
         'remark-math'
       ],

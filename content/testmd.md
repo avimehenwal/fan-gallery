@@ -4,6 +4,12 @@
   Test Vue <Page></Page>
 </nuxt-link>
 
+## Definition List
+
+something to explore?
+:   Yeah, there is something to be answered
+
+
 ## :100: Latex
 
 $\sqrt{3x-1}+(1+x)^2$
@@ -13,6 +19,8 @@ Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following equat
 $$
 L = \frac{1}{2} \rho v^2 S C_L
 $$
+
+## Component
 
 <Box>
   <template v-slot:header>
@@ -26,7 +34,11 @@ $$
   </template>
 </Box>
 
+## Blockquote
+
 > this is markdown yay!
+
+## COntainers
 
 ::: tip title
 content
