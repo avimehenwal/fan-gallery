@@ -55,6 +55,8 @@ export default {
   ** Global CSS
   */
   css: [
+    { src: 'katex/dist/katex.min.css', lang: 'css' },
+    { src: 'w3-css/w3.css', lang: 'css' },
     '@/assets/main.css'
   ],
   /*
@@ -93,9 +95,12 @@ export default {
   */
   modules: [
     // Doc: https://axios.nuxtjs.org/usage
+    '@nuxtjs/markdownit',
     '@nuxtjs/axios',
     '@nuxt/content',
-    '@nuxt/http'
+    '@nuxt/http',
+    // declare it at the end of the array
+    '@nuxtjs/sitemap'
   ],
   /*
   ** Axios module configuration
@@ -110,9 +115,42 @@ export default {
         '@fec/remark-a11y-emoji',
         'remark-container',
         'remark-graphviz',
-        'remark-emoji'
+        'remark-deflist',
+        'remark-rehype',
+        'remark-emoji',
+        'remark-math'
+      ],
+      rehypePlugins: [
+        'rehype-katex'
       ]
     }
+  },
+  // [optional] markdownit options
+  // See https://github.com/markdown-it/markdown-it
+  markdownit: {
+    typographer: true,
+    preset: 'default',
+    linkify: true,
+    breaks: true,
+    use: [
+      'markdown-it-div',
+      'markdown-it-div',
+      'markdown-it-attrs',
+      'markdown-it-katex',
+      'markdown-it-emoji',
+      [
+        'markdown-it-anchor',
+        {
+          level: 1,
+          // slugify: string => string,
+          permalink: true,
+          // renderPermalink: (slug, opts, state, permalink) => {},
+          permalinkClass: 'header-anchor',
+          permalinkSymbol: '¶',
+          permalinkBefore: true
+        }
+      ]
+    ]
   },
   /*
   ** vuetify module configuration
@@ -144,6 +182,25 @@ export default {
     */
     extend (config, ctx) {
     }
+  },
+  // https://www.npmjs.com/package/@nuxtjs/sitemap
+  sitemap: {
+    hostname: 'https://fangallery.netlify.app/',
+    gzip: true,
+    exclude: [
+      '/secret',
+      '/admin/**'
+    ]
+    // routes: [
+    //   '/page/1',
+    //   '/page/2',
+    //   {
+    //     url: '/page/3',
+    //     changefreq: 'daily',
+    //     priority: 1,
+    //     lastmod: '2017-06-30T13:30:00.000Z'
+    //   }
+    // ]
   },
   env: {
     githubToken: '42cdf9fd55abf41d24f34c0f8a4d9ada5f9e9b93'
