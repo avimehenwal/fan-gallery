@@ -4,24 +4,33 @@ export default {
   target: 'static',
   mode: 'universal',
   components: true,
+  build: {
+    analyze: true
+  },
   generate: {
-    routes: [
-      'kaiji',
-      'index',
-      'kakegurui',
-      'castlevania',
-      'drifters',
-      'neverland',
-      'opm',
-      'resources',
-      'trsh',
-      'htryd',
-      'sevendeadlysins',
-      'beasters',
-      'article',
-      'klk',
-      'deamonslayer'
-    ]
+    async routes () {
+      const { $content } = require('@nuxt/content')
+      const files = await $content().only(['path']).fetch()
+      return files.map(file => file.path === '/index' ? '/' : file.path)
+    }
+    // routes: [
+    //   'kaiji',
+    //   'index',
+    //   'kakegurui',
+    //   'castlevania',
+    //   'drifters',
+    //   'neverland',
+    //   'opm',
+    //   'resources',
+    //   'trsh',
+    //   'htryd',
+    //   'sevendeadlysins',
+    //   'beasters',
+    //   'article',
+    //   'klk',
+    //   'deamonslayer',
+    //   'kyhe'
+    // ]
   },
   /*
   ** Headers of the page
@@ -95,7 +104,15 @@ export default {
   axios: {
   },
   content: {
-    nestedProperties: ['animes.slug']
+    nestedProperties: ['animes.slug'],
+    markdown: {
+      remarkPlugins: [
+        '@fec/remark-a11y-emoji',
+        'remark-container',
+        'remark-graphviz',
+        'remark-emoji'
+      ]
+    }
   },
   /*
   ** vuetify module configuration

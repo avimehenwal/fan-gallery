@@ -8,6 +8,7 @@
     "dev": "nuxt --open",
     "build": "nuxt build",
     "start": "nuxt start",
+    "analyze": "yarn nuxt build --analyze",
     "generate": "nuxt build && nuxt export",
     "production": "yarn run build && yarn run start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
@@ -30,10 +31,14 @@
     "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "nuxt": "^2.13.3",
+    "remark-container": "^0.1.2",
+    "remark-emoji": "^2.1.0",
+    "remark-graphviz": "^0.2.2",
     "vue-chartjs": "^3.5.0",
     "vue-google-charts": "^0.3.3"
   },
   "devDependencies": {
+    "@fec/remark-a11y-emoji": "^1.0.0",
     "@nuxtjs/eslint-config": "^2.0.0",
     "@nuxtjs/eslint-module": "^1.0.0",
     "@nuxtjs/google-analytics": "^2.2.3",

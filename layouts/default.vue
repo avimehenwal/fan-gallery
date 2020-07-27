@@ -141,11 +141,11 @@ export default {
           title: 'MHA Arcs Timeline',
           to: '/mha'
         },
-        {
-          icon: 'mdi-search-web',
-          title: 'Resources',
-          to: '/resources'
-        },
+        // {
+        //   icon: 'mdi-search-web',
+        //   title: 'Resources',
+        //   to: '/resources'
+        // },
         {
           icon: 'mdi-chart-bar',
           title: 'Project Stats',

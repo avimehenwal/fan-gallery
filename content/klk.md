@@ -4,6 +4,14 @@
   * Senketsu
   * Junketsu
 
+> Fear is **Freedom**,
+> Subjugation is **Liveration**,
+> Contradiction is **Truth**
+
+Those are the rules of this world and you will all surrender to them.
+
+You *Pigs* in human clothing.
+
 ## Season 1
 
 * Goku Uniforms
@@ -19,3 +27,5 @@
 * life fibre synchronization
 * She is sharpening the fangs of rebellion
 * What do we do now? What nudist always do when their pants are down
+
+> Using Goku unforms as our **weapons**, we will carve a path for **humanitites** future

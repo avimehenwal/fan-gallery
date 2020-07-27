@@ -58,6 +58,14 @@ export const db = {
     },
     title () {
       return this.item.TITLE
+    },
+    testVariable () {
+      // if (typeof (this.item) !== 'undefined' || this.item !== null) {
+      if (this.item) {
+        return true
+      } else {
+        return false
+      }
     }
   }
 }
