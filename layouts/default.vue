@@ -141,15 +141,20 @@ export default {
           title: 'MHA Arcs Timeline',
           to: '/mha'
         },
-        // {
-        //   icon: 'mdi-search-web',
-        //   title: 'Resources',
-        //   to: '/resources'
-        // },
+        {
+          icon: 'mdi-search-web',
+          title: 'Resources',
+          to: '/resources'
+        },
         {
           icon: 'mdi-chart-bar',
           title: 'Project Stats',
           to: '/stats'
+        },
+        {
+          icon: 'mdi-clipboard-list-outline',
+          title: 'Watch List',
+          to: '/watchlist'
         },
         {
           icon: 'mdi-format-list-bulleted-square',
