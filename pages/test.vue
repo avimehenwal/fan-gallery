@@ -1,5 +1,8 @@
 <template>
   <div>
+    <nuxt-link to="/testmd">
+      Test Markdown
+    </nuxt-link>
     <v-text-field
       v-model="query"
       append-icon='mdi-magnify'

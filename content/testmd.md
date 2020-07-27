@@ -1,7 +1,29 @@
-# Markdown
+# Test Markdown
+
+<nuxt-link to="/test">
+  Test Vue <Page></Page>
+</nuxt-link>
 
 > this is markdown yay!
 
+::: tip title
+content
+
+muliti line
+:::
+
+```dot
+digraph graphname {
+  a -> b;
+  b -> c;
+  a -> c;
+}
+```
+
+```py
+def abc(self):
+    pass
+```
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
