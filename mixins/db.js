@@ -34,11 +34,11 @@ export const db = {
       // lodash to filter as where query not working
       const path = '/' + this.md
       // const path = this.md
-      console.log('Filtering using ' + path)
+      // console.log('Filtering using ' + path)
       this.item = _.filter(result.body, { TO: path })[0]
     },
     async getMD (name) {
-      console.log('ARG:Filename = ' + name)
+      // console.log('ARG:Filename = ' + name)
       this.doc = await this.$content(name).fetch()
     }
   },
@@ -53,7 +53,7 @@ export const db = {
       news.searchParams.append('q', this.title)
       news.searchParams.append('hl', 'en-US')
       news.searchParams.append('gl', 'US')
-      console.log('google news = ' + news)
+      // console.log('google news = ' + news)
       return news.toString()
     },
     title () {

@@ -4,6 +4,7 @@
   Test Vue <Page></Page>
 </nuxt-link>
 
+
 ## Definition List
 
 something to explore?
@@ -70,3 +71,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     `{ my code }`
 
     Add as many paragraphs as you like.
+
+## Ratings
+
+<Rating :values="['10', '10', '20', '30', '100']" />

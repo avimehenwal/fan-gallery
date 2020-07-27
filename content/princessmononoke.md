@@ -1,5 +1,6 @@
 # :film_projector: Princess Mononoke
 
+
 [Wikipedia Page][url]
 
 ## Characters
@@ -17,7 +18,10 @@
 Broke records in Japan, followed by **Titanic** and **Spirited Away**
 :::
 
+
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f53ZCld72FI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [url]: https://en.wikipedia.org/wiki/Princess_Mononoke
+
+<Rating :values="['50', '60', '100', '100', '100']" />

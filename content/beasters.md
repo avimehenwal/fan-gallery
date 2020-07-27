@@ -8,6 +8,7 @@ tags:
 
 <TagLinks />
 
+
 ## Cast
 
 * Legoshi - the wolf
@@ -32,3 +33,5 @@ tags:
 
 
 <Footer />
+
+<Rating :values="[20,50,80,90,90]" />
