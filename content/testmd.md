@@ -52,7 +52,7 @@ digraph graphname {
   a -> b;
   b -> c;
   a -> c;
-}
+} 
 ```
 
 ```py
