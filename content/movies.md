@@ -85,4 +85,12 @@ Broke records in Japan, followed by **Titanic** and **Spirited Away**
 * They gave me something radical
 * We are not arms merchants, we just want to build good aircrafts
 
+## Howl's Moving Castle
+
+* Seems like I have become quiet cunning in my old age
+* Calcifer move the castle 600 kms north
+* The witch of the waste
+* oath of Sorcery Academy
+
+
 <Rating :values="['50', '60', '100', '100', '100']" />
