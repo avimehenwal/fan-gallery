@@ -1,8 +1,11 @@
 # :film_projector: Art Movies
 
-::: tip Studio
-By studio Ghibli
-:::
+<Box>
+  <template v-slot:body>
+    <h2> Studio Ghibli </h2>
+    <p>Hayao Miyazaki</p>
+  </template>
+</Box>
 
 ##  Princess Mononoke
 
@@ -92,5 +95,31 @@ Broke records in Japan, followed by **Titanic** and **Spirited Away**
 * The witch of the waste
 * oath of Sorcery Academy
 
+## Ponyo
+
+## Kikis delivery Service
+
+> A witch in training
+
+* living in a city away from home, training period
+* Now I am suddenly the flight attendent
+
+## My Neighbour Totoyo
+
+* acorn
+* dust bunny
+* https://ghibli.fandom.com/wiki/Susuwatari
+* Thankyou for watching over may, and making us feel so welcome here, pleasse continue to look after us
+
+## Whisper of the heart
+
+* Great shijoku, master of writingm we shall make fun of you no more.
+* When did you know what to do with your life?
+* Dont you rub it on me
+* Oh yeah, school has really made your life great
+* So you are fond of ramen.
+* What was just a memory with me, has gained a new life
+* If I am staying with you, I am going to help you. I dont want to be just a burden
+* I am glad I pushed myself, I know myself a little bit better now.
 
 <Rating :values="['50', '60', '100', '100', '100']" />
