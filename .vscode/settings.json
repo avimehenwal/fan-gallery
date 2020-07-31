@@ -30,6 +30,7 @@
         "security",
         "data",
         "github-actions",
-        "git"
+        "git",
+        "section"
     ]
 }

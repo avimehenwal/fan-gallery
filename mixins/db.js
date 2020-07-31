@@ -21,7 +21,8 @@ export const db = {
     ]
   }),
   mounted () {
-    this.md = this.$route.params.slug
+    // this.md = this.$route.params.slug
+    this.md = this.$route.fullPath
     this.getMD(this.md) // doc
     this.getInfo() // item
   },

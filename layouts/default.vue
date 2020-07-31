@@ -127,6 +127,11 @@ export default {
           to: '/'
         },
         {
+          icon: 'mdi-television-classic',
+          title: 'Sitcoms',
+          to: '/sitcom/index'
+        },
+        {
           icon: 'mdi-file-image',
           title: 'Images',
           to: '/image'
