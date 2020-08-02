@@ -1,5 +1,7 @@
 # :film_projector: Art Movies
 
+<nuxt-link to="/movies">Back to List Page</nuxt-link>
+
 <Box>
   <template v-slot:body>
     <h2> Studio Ghibli </h2>
@@ -128,5 +130,17 @@ Broke records in Japan, followed by **Titanic** and **Spirited Away**
 * The king of fruits
 * Everythign was so vivid in my mind
 
+## Spider verse
+
+* What are you doing? Making you feel guilty, is it working?
+* Can you git it back to  me? Its proprietary
+* We dont pick the ball room, we just dance
+
+## When Marnie was There
+
+* She screams like a goat
+* Overlapping time-line from past and present
+* Spiritual reconnectio of grand daughter and grand mother
+* Resolution of story
 
 <Rating :values="['50', '60', '100', '100', '100']" />

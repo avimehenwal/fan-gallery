@@ -1,5 +1,5 @@
 <template>
-  <CardList csv="animes" />
+  <CardList csv="Movies" />
 </template>
 
 <script>

@@ -1,5 +1,9 @@
 import _ from 'lodash'
 
+/*
+    Database controls
+*/
+
 export const db = {
   // async asyncData ({ $content }) {
   // const doc = await $content('opm').fetch()
@@ -18,7 +22,20 @@ export const db = {
     doc: '',
     seasons: [
       { name: 'Vinland Saga: Season 1', done: true }
-    ]
+    ],
+    // COntrol variables to reactive card list
+    shaped: false,
+    large: false,
+    grid: true,
+    numCards: 4,
+    numCardsValues: [1, 2, 3, 4, 5, 6],
+    search: '',
+    items: [],
+    sortKeys: ['TITLE', 'SUBTITLE', 'RATING', 'IMAGE', 'EXTERNAL', 'TO'],
+    sortOrders: ['asc', 'desc'],
+    sortKey: 'TITLE',
+    sortOrder: 'asc'
+
   }),
   mounted () {
     // this.md = this.$route.params.slug
