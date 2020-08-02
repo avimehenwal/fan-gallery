@@ -122,4 +122,11 @@ Broke records in Japan, followed by **Titanic** and **Spirited Away**
 * If I am staying with you, I am going to help you. I dont want to be just a burden
 * I am glad I pushed myself, I know myself a little bit better now.
 
+## Only Yesterday
+
+* The other day me and my sisters were reminiscing
+* The king of fruits
+* Everythign was so vivid in my mind
+
+
 <Rating :values="['50', '60', '100', '100', '100']" />

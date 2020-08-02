@@ -167,6 +167,14 @@ Attacks
 * Zeldis confronts M again
 * B recieves his sacred treasure
 
+## Prisioner of the sky
+
+* I cant believe it, captain got taken out
+* However the sword seems to be a very inconvenient item.
+* Indura: throw off your heavy chains and arise
+* Arc spell
+* Seven deadly sins combo attack - seven deadly sins
+* With the power of our people, the cellestials srvived the time of ruin.
 
 *[M]: Meliodas the Dragon Sin
 *[B]: Ban the Fox Sin
