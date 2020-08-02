@@ -128,8 +128,8 @@ export default {
         },
         {
           icon: 'mdi-television-classic',
-          title: 'Sitcoms',
-          to: '/sitcom/index'
+          title: 'Art Movies',
+          to: '/movies'
         },
         {
           icon: 'mdi-file-image',
