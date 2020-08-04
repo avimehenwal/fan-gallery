@@ -132,6 +132,11 @@ export default {
           to: '/movies'
         },
         {
+          icon: 'mdi-video',
+          title: 'Action pack',
+          to: '/actionmovies'
+        },
+        {
           icon: 'mdi-file-image',
           title: 'Images',
           to: '/image'
