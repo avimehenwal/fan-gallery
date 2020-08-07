@@ -9,11 +9,13 @@
 
 Can summon **Domain of god**
 
-1. Ludociel | Flash
-2. Tarmiel | Ocean
-3. Sariel | Tornado
-4. Mael - sunshine killed by estorossa
-5. Nerobasta - Lance commander
+God race | Grace
+---------|--------
+Ludociel | Flash
+Tarmiel | Ocean
+Sariel | Tornado
+Mael - sunshine killed by estorossa
+Nerobasta - Lance commander
 
 Can create a virtual territory called "Gods Territory"
 
@@ -169,6 +171,8 @@ Attacks
 
 ## Prisioner of the sky
 
+> 6 knights of black
+
 * I cant believe it, captain got taken out
 * However the sword seems to be a very inconvenient item.
 * Indura: throw off your heavy chains and arise
@@ -181,3 +185,41 @@ Attacks
 *[P]: Purgatory
 *[7ds]: Seven Deadly Sins
 *[E]: Elizabeth
+*[C]: 10 Commandments
+
+## :god: Season 4 - Imperial Wrath of the gods
+
+* 7ds managed to save Liones from C, but half of the kingdom was destroyed
+* M rescues the sacrifical humans from deamons from a nearby Village
+* A village offering sacrifices to deamons as to protect their families
+* stigma vs deamons
+* It seems like that if I want get something doen right, I would have to do it myself
+* Gate of cellestial realm, to call enforcements, Mael
+* Indura Form - most diabolic form, offering 6 hearts
+* Lets shake on it
+* You sure that's something to compete over
+* castle where 7ds were framed for murdering grandmaster
+* puny
+* Fairy kings forest, beneath liones castle where gowther was found
+* That makes two of us my lady
+* Bartra, I heard that you have a premonition
+* Why are you staring in the space, if there is something on your mind you can tell me.
+* Zelddris did a number on you right?
+* Melascula - meliodas power transferred to skeletons
+* To remian calm and collective is the earn right of the powerful
+* You can rest in peace now. Let theie be light
+* Now I Melascula of faith willpunish you on behalf of deamon king on your transgressions
+* M broke cacoon of darkness
+* Assault mode - lost his emotions
+
+invigorate | give strength or energy to
+
+
+> What was gowthers dream?
+
+
+## Kingdom of Brittannia
+
+1. Liones
+2. Danafall
+3. Camelot

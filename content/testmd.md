@@ -4,6 +4,24 @@
   Test Vue <Page></Page>
 </nuxt-link>
 
+### Graphs
+
+[Link to a Graph](../assets/dot/example.dot "dot:")
+
+
+```mermaid
+graph LR
+    Start --> Stop
+```
+
+
+```dot
+digraph graphname {
+  a -> b;
+  b -> c;
+  a -> c;
+}
+```
 
 ## Definition List
 
@@ -46,14 +64,6 @@ content
 
 muliti line
 :::
-
-```dot
-digraph graphname {
-  a -> b;
-  b -> c;
-  a -> c;
-} 
-```
 
 ```py
 def abc(self):

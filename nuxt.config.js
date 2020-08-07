@@ -116,6 +116,7 @@ export default {
         'remark-container',
         'remark-graphviz',
         'remark-deflist',
+        'remark-mermaid',
         'remark-rehype',
         'remark-emoji',
         'remark-math'

@@ -30,11 +30,13 @@
     "d3": "^5.16.0",
     "d3-graphviz": "^3.1.0",
     "lodash": "^4.17.19",
+    "mermaid.cli": "^0.5.1",
     "moment": "^2.24.0",
     "nuxt": "^2.13.3",
     "remark-container": "^0.1.2",
     "remark-emoji": "^2.1.0",
     "remark-graphviz": "^0.2.2",
+    "remark-mermaid": "^0.2.0",
     "vue-chartjs": "^3.5.0",
     "vue-google-charts": "^0.3.3"
   },
