@@ -9,13 +9,13 @@
 
 Can summon **Domain of god**
 
-God race | Grace
----------|--------
-Ludociel | Flash
-Tarmiel | Ocean
-Sariel | Tornado
-Mael - sunshine killed by estorossa
-Nerobasta - Lance commander
+God race  | Grace
+----------|--------
+Ludociel  | Flash
+Tarmiel   | Ocean
+Sariel    | Tornado
+Mael      | sunshine killed by estorossa
+Nerobasta | Lance commander
 
 Can create a virtual territory called "Gods Territory"
 
@@ -211,9 +211,12 @@ Attacks
 * Now I Melascula of faith willpunish you on behalf of deamon king on your transgressions
 * M broke cacoon of darkness
 * Assault mode - lost his emotions
+* Face the wrong opponents with untested power
+* Domain of the gods
 
 invigorate | give strength or energy to
 
+Arthir | King of kings, child of hope
 
 > What was gowthers dream?
 
