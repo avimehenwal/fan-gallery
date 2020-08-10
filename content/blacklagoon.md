@@ -66,6 +66,9 @@ put food on the table. But thats business
 * A final stop on the way to hell
 * Recently purchased get away driver and body guard
 * Ripoff church
+
+> Dude brought out an M60 like it was a normal day at the office
+
 * TOuchdown dutch
 * A real weapon is offence
 * As soon as she find out that you dont have the plates, she will find a way to crucify you that would impress evene  jesus christ himself
@@ -73,6 +76,9 @@ put food on the table. But thats business
 * I may need my [cutless](https://en.wikipedia.org/wiki/Cutlass) afterall
 * You are on the edge of the cliff, and once you jump off you travel in one direction
 * Sorry to keep you waiting, brought you your prom date
+
+> Balalaika: Now you're gonna kneel and beg for forgiveness.
+
 * The time has come for use to teach the japanese the art of war
 * If he shoots the way he talks, it will all ricochet back at us
 * Unbelievable, now he is kidnapped by a highschool girl
