@@ -137,6 +137,11 @@ export default {
           to: '/actionmovies'
         },
         {
+          icon: 'mdi-video',
+          title: 'Sitcoms',
+          to: '/sitcom'
+        },
+        {
           icon: 'mdi-file-image',
           title: 'Images',
           to: '/image'
