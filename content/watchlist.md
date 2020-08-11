@@ -1,6 +1,6 @@
 # :100: Watch List
 
-1. [ ] Gurren Lagann
+1. [x] Gurren Lagann
 2. [ ] Fire Force
 3. [ ] JoJo's Bizarre Adventure
 4. [ ] Dragon Ball Super
