@@ -10,6 +10,7 @@ tags:
 
 ## Sword of the Stranger
 
+* DOnt worry, you are not in any danger
 * Celebration of combat in most mouth watering way
 * Chinese are building something
 * Why did mercenaries want to kill the boy?
