@@ -13,6 +13,8 @@
 
 ## Magi: The Labyrinth of Magic
 
+> Your wish is my command
+
 * Allidin asks ambitious alibaba not to lie
 * Adventure to dungeon
 * Sorcerer of creation - who guides kings
@@ -63,6 +65,10 @@
 * Sindbad has 7 djinns (maximum a person can have in this world)
   * have shown 4 so far
 
+## Manga
+
+* Solomon kills the original god, and that black specie coming out of sky is the original god
+* Black rukh is from original god and white rukh is solomon itself
 
 *[enigma]: a person or thing that is mysterious or difficult to understand.
 *[transgression]: an act that goes against a law, rule, or code of conduct; an offence.
