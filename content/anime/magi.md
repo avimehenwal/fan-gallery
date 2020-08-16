@@ -5,9 +5,11 @@
 1. Alibaba
 2. Alladin
 3. King sindbad
-4. Rukh
+4. Rukh - essencce of soule
 5. Magoi - Qi
-
+6. Reim Empire
+7. Magnostadt - city of magicians
+8. Sindria
 
 ## Magi: The Labyrinth of Magic
 
@@ -38,6 +40,31 @@
 * Ignorant losers vs self aware losers
 * Maybe this world is not all that bleak
 * Subjugation or annilation, choose well
+* Your magic is distressingly simplistic, artistry begins only once you have mastered combinations
+* Composite magic
+* All their past transgressions will be forgiven in the radience of your wisdom.
+* I hate pretentious people
+* Magician country vs Reim EMpire war arc
+* Its not opression, its and exchange
+* A magician is commited to shoulder the great burden of many
+* Soldiers of Reim, I beg you to return to your homes
+* We will no longer indulge ourselves in the acts of war
+* 4th magi -solomons incarnation
+* King solomon and his 72 household members along with 3 magis
+  * one his own magis betrayed him
+* metal vessel users of 7 seas alliance
+* All 13 launches extreme magic spell at once
+* There is no one inthis world who can live without making mistakes, you must not entrust someone with everything.
+
+## Power Systems
+
+* Magical Xrays
+* Using magoi with weapons
+* Sindbad has 7 djinns (maximum a person can have in this world)
+  * have shown 4 so far
 
 
 *[enigma]: a person or thing that is mysterious or difficult to understand.
+*[transgression]: an act that goes against a law, rule, or code of conduct; an offence.
+*[pretentious]: attempting to impress by affecting greater importance or merit than is actually possessed.
+
