@@ -1,5 +1,7 @@
 # Fire Force
 
+> Death by Fire
+
 * Shinra Kusakabe aka devil
 * Special fire cathedral
 * Spontaneous human combustion
@@ -11,14 +13,10 @@
 
 ## Season 1
 
-> The flame is the soul’s breath
-
-> The black smoke is the soul’s release
-
-> Ashes thou wert and art
-
-> May thy soul return to the Great Flame of Fire
-
+> The flame is the soul’s breath<br>
+> The black smoke is the soul’s release<br>
+> Ashes thou wert and art<br>
+> May thy soul return to the Great Flame of Fire<br><br>
 > Látom
 
 * new enrollment
@@ -59,6 +57,32 @@
 * Underworld adola
 * You were in the dark for a long time all by yourself.
 * I will collect him and withdraw
+* Self proclaimed knight in check, that guy is somethign else.
+
+## Pyrokinetic levels
+
+Generation |  Powers
+1st | You will simply turn into an inferno
+2nd | you can bend fire at will but cannot create new fire
+3rd | Generate and bend fire at will
+4th | can smell the fire
+
+### Adolla Link
+
+* link to another world (old people call it hell)
+* Adolla Burst - hell fire
+* Adolla link activates adolla burst
+
+## Season 2
+
+* First killer
+* I think you might be an adraline junkie
+
+A Pillar (柱, Hashira) refers to an individual who possesses the Adolla Burst.
+There are **eight** Pillars in total, each from different organizations, and
+each Pillar has a Guardian who protects them from danger. The Evangelist aims
+to gather the Eight Pillars and sacrifice them in order to recreate the Great
+Disaster from 250 years ago.
 
 
 *[reconnaissance]: military observation of a region to locate an enemy or ascertain strategic features.
