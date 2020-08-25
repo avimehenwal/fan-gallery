@@ -5,7 +5,7 @@
 
 # :neckbeard: fan-gallery
 
-> Personal showcase of my favourite anime collection
+Personal showcase of my favourite anime collection
 
 ## :sparkles: Live [Link][url]
 
@@ -108,9 +108,23 @@ MIT
 
 ---
 
+## TODO
+
+* [ ] use webP images
+
+```bash
+for file in *
+do
+  cwebp -progress -q 80 "$file" -o "$file.webp"
+done
+
+for file in *; do cwebp -progress "$file" -o "./webp/$file.webp"; done
+
+```
+
 #### :pray: Get in touch with me
 
-> I am looking for Jobs ... :sunglasses:
+I am looking for Jobs ... :sunglasses:
 
 * [Github](https://github.com/avimehenwal/)
 * [My Website](https://avimehenwal.in)
