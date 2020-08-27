@@ -42,6 +42,11 @@ tags:
 * dreadful, they got right into the trap
 * once the poison dissapates, they wil come crashing throught the door. I need help to hold them off.
 * Brought back by the miracle of ressurection
+
+> Goblins arent bright creatures
+>
+> But  they arent completely fools either.
+
 * There is nothing quiet like the joy of sharing a meal with your companions
 * Short sword, leather armor with a schield
 * How the mirror is attached, it refuses to budge
@@ -61,6 +66,12 @@ Race | Powers
 -----|-----------
 Dwarf | stone burst
 Elf   | Ranger
+
+## The Preistess Log's
+
+* Goblin slayer kills 22 goblins in his debut quest as shown on anime
+* Should have prepared for the impact rather than lack of air.
+
 
 *[incomprehensible]: not able to be understood; not intelligible.
 *[arbiter]: a person who settles a dispute or has ultimate authority in a matter.

@@ -84,5 +84,8 @@ each Pillar has a Guardian who protects them from danger. The Evangelist aims
 to gather the Eight Pillars and sacrifice them in order to recreate the Great
 Disaster from 250 years ago.
 
+* 8 Pillars + Evangalist
+* Mission to chinese peninsula
+
 
 *[reconnaissance]: military observation of a region to locate an enemy or ascertain strategic features.
