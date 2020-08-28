@@ -1,0 +1,24 @@
+{
+	/* STUB
+	* https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables
+	*/
+	"fan-gallery frontmatter": {
+		"prefix": "frontmatter",
+		"body": [
+			"---",
+			"title: ${1:${TM_FILENAME_BASE/[\\-]/ /g}}",
+			"date: ${2:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE}",
+			"summary: ${3:summary}",
+			"tags:",
+			"- ${4}",
+			"featuredimg: ${5:https://picsum.photos/200}",
+			"author: ${6:avimehenwal}",
+			"---",
+			"",
+			"# ${1:$TM_FILENAME}",
+			"",
+			"${0}"
+		],
+		"description": "fan-gallery frontmatter"
+	}
+}

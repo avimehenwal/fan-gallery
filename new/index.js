@@ -8,20 +8,11 @@ const path = require('path')
 const pick = require('lodash/pick')
 
 module.exports = themeConfig => {
-  /**
-   * Default theme configuration
-   */
   themeConfig = Object.assign(themeConfig, {
     logo: '/assets/img/logo.png',
     nav: themeConfig.nav || [
-      {
-        text: 'Blog',
-        link: '/',
-      },
-      {
-        text: 'Tags',
-        link: '/tag/',
-      },
+      { text: 'Blog', link: '/', },
+      { text: 'Tags', link: '/tag/', },
     ],
     summary: themeConfig.summary === undefined ? true : themeConfig.summary,
     summaryLength:
@@ -32,26 +23,16 @@ module.exports = themeConfig => {
   })
 
   /**
-   * Configure blog plugin
+   * ANCHOR Configure blog plugin
    */
   const defaultBlogPluginOptions = {
     directories: [
-      {
-        id: 'post',
-        dirname: '_posts',
-        path: '/',
-      },
+      { id: 'post', dirname: '_posts', path: '/', },
     ],
     frontmatters: [
-      {
-        id: 'tag',
-        keys: ['tags'],
-        path: '/tag/',
-      },
+      { id: 'tag', keys: ['tags'], path: '/tag/', },
     ],
-    globalPagination: {
-      lengthPerPage: 6,
-    },
+    globalPagination: { lengthPerPage: 6, },
   }
 
   let resolvedFeedOptions
@@ -91,13 +72,13 @@ module.exports = themeConfig => {
     themeConfigPluginOptions
   )
 
-  /**
-   * Integrate plugins
-   */
+  /** ANCHOR Integrate plugins */
 
   const enableSmoothScroll = themeConfig.smoothScroll === true
 
+  /** NOTE plugins */
   const plugins = [
+    ['@vuepress/back-to-top'],
     '@vuepress/plugin-nprogress',
     ['@vuepress/medium-zoom', true],
     [

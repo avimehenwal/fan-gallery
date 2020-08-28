@@ -1,21 +1,13 @@
 {
-  "name": "vuepress-theme-mediumish",
+  "name": "fan-gallery2",
   "version": "1.0.32",
-  "description": "Mediumish blog theme for VuePress",
+  "description": "My beautyful fan gallery",
   "repository": {
     "type": "git",
-    "url": "wowthemesnet/mediumish-vuepress-blog-theme"
+    "url": "avimehenwal/fan-gallery"
   },
-  "keywords": [
-    "vue",
-    "vuepress",
-    "vuepress-theme",
-    "blog-theme",
-    "blog",
-    "theme"
-  ],
   "license": "MIT",
-  "author": "sal<wowthemesnet@gmail.com>",
+  "author": "avimehenwal",
   "files": [
     "index.js",
     "styles",
@@ -26,8 +18,8 @@
   ],
   "main": "index.js",
   "scripts": {
-    "docs:build": "vuepress build docs --temp docs/.temp",
-    "docs:dev": "vuepress dev docs --temp docs/.temp",
+    "docs:build": "vuepress build docs",
+    "docs:dev": "vuepress dev docs",
     "lint": "eslint . --ext .js,.vue",
     "prepublishOnly": "npm run test && npm run docs:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
     "test": "jest"
@@ -61,6 +53,7 @@
     "vuepress-plugin-smooth-scroll": "^0.0.9"
   },
   "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.5.4",
     "babel-eslint": "^10.0.3",
     "conventional-changelog-cli": "^2.0.1",
     "eslint": "^6.8.0",

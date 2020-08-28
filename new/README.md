@@ -6,6 +6,7 @@
 * [ ] image gallery
 * [ ] project snippets, stub
 * [ ] github pages
+* [ ] optimize images to webp ~80% gain
 
 
 #### :v: Get in touch with me
