@@ -79,6 +79,12 @@ module.exports = themeConfig => {
   /** NOTE plugins */
   const plugins = [
     ['@vuepress/back-to-top'],
+    "@vuepress/plugin-active-header-links",
+    "@vuepress/plugin-last-updated",
+    // "vuepress-plugin-auto-sidebar",
+    "reading-progress",
+    "img-lazy",
+    ['web-monetization', { 'address': process.env.ILP }],
     '@vuepress/plugin-nprogress',
     ['@vuepress/medium-zoom', true],
     [
@@ -89,6 +95,44 @@ module.exports = themeConfig => {
     ],
     ['@vuepress/blog', blogPluginOptions],
     ['smooth-scroll', enableSmoothScroll],
+    [ '@vuepress/google-analytics', { 'ga': process.env.GA } ],
+    ['vuepress-plugin-reading-time', {
+      excludes: ['/about', '/tag/.*']
+    }],
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'theorem',
+        defaultTitle: '',
+        before: info => `<div class="theorem"><p class="title">${info}</p>`,
+        after: '</div>',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'right',
+        defaultTitle: '',
+      },
+    ],
+    [
+      'vuepress-plugin-container',
+      {
+        type: 'quote',
+        defaultTitle: 'Anonymous',
+        before: '<article class="quote"><div class="body">',
+        after: info => `</div><footer class="author">~ ${info}</footer></article>`,
+      },
+    ],
   ]
 
   /**
@@ -105,6 +149,26 @@ module.exports = themeConfig => {
   }
 
   const config = {
+    markdown: {
+      // options for markdown-it-anchor
+      // anchor: { permalink: false },
+      // options for markdown-it-toc
+      // toc: { includeLevel: [1, 2] },
+      linkify: true,                // convert markdown link texts to links
+      extendMarkdown: md => {
+        md.use(require('markdown-it-container'))
+        md.use(require('markdown-it-footnote'))
+        md.use(require('markdown-it-deflist'))
+        md.use(require('markdown-it-imsize'))
+        md.use(require('markdown-it-emoji'))
+        md.use(require('markdown-it-todo'))
+        md.use(require('markdown-it-abbr'))
+        md.use(require('markdown-it-mark'))
+        md.use(require('markdown-it-sup'))
+        md.use(require('markdown-it-sub'))
+        md.use(require('markdown-it-ins'))
+      }
+    },
     plugins,
     define: {
       THEME_BLOG_PAGINATION_COMPONENT: themeConfig.paginationComponent

@@ -7,6 +7,9 @@
 * [ ] project snippets, stub
 * [ ] github pages
 * [ ] optimize images to webp ~80% gain
+* [ ] Prev and Next pages link to page layout footer
+* [ ] Add css for tip, warning, danger, details containers
+* [ ] Add rating instead of author in tile card
 
 
 #### :v: Get in touch with me

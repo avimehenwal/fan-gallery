@@ -22,6 +22,12 @@ module.exports = {
         link: 'https://bootstrapstarter.com/',
         linktext: 'Follow',
       },
+      {
+        name: 'avimehenwal',
+        avatar: 'https://picsum.photos/100.webp',
+        link: 'https://twitter.com/avimehenwal',
+        linktext: 'Follow',
+      },
     ],
     footer: {
       contact: [

@@ -1,7 +1,7 @@
 ---
 title: What's the most beautiful website in the world
 date: 2020-1-28
-tags: 
+tags:
   - frontmatter
   - vuepress
 author: John Doe
@@ -23,6 +23,25 @@ Between these triple-dashed lines, you can set predefined variables (see [below]
 ::: tip
 Front matter variables are **optional** in VuePress.
 :::
+
+::: quote
+your quote goes here
+:::
+
+::: warning text
+sdnfosndof soidfnospdfnpo
+:::
+
+::: danger text
+body sdofn sodnfos ndfoidsnf
+:::
+
+::: details
+sndifsnd ifnsiod fnosidnfp asdnfpo
+:::
+
+
+
 
 ## Alternative Front Matter Formats
 
