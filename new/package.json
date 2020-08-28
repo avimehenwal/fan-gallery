@@ -23,7 +23,7 @@
     "lint": "eslint . --ext .js,.vue",
     "prepublishOnly": "npm run test && npm run docs:build && conventional-changelog -p angular -r 2 -i CHANGELOG.md -s",
     "test": "jest",
-    "serve": "yarn build && http-server docs/.vuepress/dist"
+    "serve": "yarn build && http-server ../docs"
   },
   "husky": {
     "hooks": {

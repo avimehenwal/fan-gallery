@@ -1,10 +1,12 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'fan-gallery',
   /**
    * set to github repo if deploying to GH pages
    */
-  base: '/vuepress-theme-mediumish/',
+  base: '/fan-gallery/',
   description: 'Blog example for Mediumish theme with VuePress',
+  // build in $(ROOT)/docs for github pages
+  dest: '../docs',
   logo: './assets/img/logo.png',
   // https://vuepress.vuejs.org/theme/writing-a-theme.html#layout-component
   theme: require.resolve('../../'),
