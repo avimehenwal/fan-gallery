@@ -9,7 +9,10 @@ Personal showcase of my favourite anime collection
 
 ## :sparkles: Live [Link][url]
 
+## :sparkles: Live [Link Next][next]
+
 [url]: https://fangallery.netlify.app/
+[next]: https://avimehenwal.github.io/fan-gallery/
 
 ## :movie_camera: Demo
 
