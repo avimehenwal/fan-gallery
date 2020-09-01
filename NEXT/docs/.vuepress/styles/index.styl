@@ -3,3 +3,60 @@
  *
  * ref：https://v1.vuepress.vuejs.org/config/#index-styl
  */
+
+
+blockquote {
+  background: $greyBg
+  border-left: 10px solid #495057;
+  margin 1rem 0
+  padding: 0.5em 0.5em;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+// .vuepress/styles/index.styl
+.theorem
+  margin 1rem 0
+  padding .1rem 1.5rem
+  border-radius 0.4rem
+  background-color #f0f4f8
+  .title
+    font-weight bold
+
+.custom-block
+  &.right
+    color transparentify($textColor, 0.4)
+    font-size 0.9rem
+    text-align right
+
+.tip
+  background: $greyBg
+  border-left: 10px solid #03a87c;
+  margin 1rem 0
+  padding .1rem 1.5rem
+  .title
+    font-weight bold
+
+.tip:after {
+  position: absolute;
+  right: 10px;
+  top: 200px;
+  padding-right: 10px;
+  color: #ccc;
+  float: right;
+  content: '\00A7';
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}

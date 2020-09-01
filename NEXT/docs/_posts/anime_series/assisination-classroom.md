@@ -55,13 +55,29 @@ gallery: ../.vuepress/plublic/assets/img
 * pandemonium time amidst chaos
 * I think this man had one too many taquilla shots
 
+::: theorem idiom
+This is really turning into a job I can sink my teeths into.
+:::
+
+* Its not love only infatuation
+
 
 *[ingenuity]: the quality of being clever, original, and inventive.
 *[pandemonium]: wild and noisy disorder or confusion; uproar.
-
+*[infatuation]: an intense but short-lived passion or admiration for someone or something.
 
 
 ## Season 2
+
+* Term end vacation
+* Imposter, creeper in town
+* You are a meticulous man
+* Uhh, and thats all it took to make this punk a delinquent
+
+
+*[meticulous]: showing great attention to detail; very careful and precise.
+*[delinquent]: (typically of a young person) tending to commit crime, particularly minor crime.
+
 
 
 ## Resources
