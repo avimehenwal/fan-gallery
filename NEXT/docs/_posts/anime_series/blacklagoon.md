@@ -8,13 +8,13 @@ featuredimg: https://vignette.wikia.nocookie.net/lagooncompany/images/b/b1/Black
 author: avimehenwal
 ---
 
-# Black Lagoon
-
-
-
 # Black Lagoon 2006-2014
 
-<TagLinks />
+<style lang="stylus">
+body {
+  background-color: lighten(lightblue, 80%);
+}
+</style>
 
 Black lagoon Company - We are nothing more than delicery boys, sometimes we break the rules to
 put food on the table. But thats business

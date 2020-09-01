@@ -10,8 +10,6 @@ author: avimehenwal
 
 # Beasters
 
-<TagLinks />
-
 
 ## Cast
 
