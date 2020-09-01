@@ -33,6 +33,9 @@
         "git",
         "section",
         "gallery",
-        "images"
+        "images",
+        "anime",
+        "frontmatter",
+        "artwork"
     ]
 }

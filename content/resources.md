@@ -4,11 +4,14 @@ dotlanguage: digraph { node [fontsize=24, colorscheme=set312, style=filled] a [f
 
 # Anime Resources
 
+[Upcoming Anime 2020](https://en.wikipedia.org/wiki/2020_in_anime)
+
 > Form of compelling storytelling and character development
 
 * [Most Popular Anime Movies and TV Shows](https://www.imdb.com/search/keyword/?keywords=anime)
 * [viz Schonen Jump - weekly anime magazine](https://www.viz.com/shonenjump)
 * [List of Japanese manga magazines by circulation](https://en.wikipedia.org/wiki/List_of_Japanese_manga_magazines_by_circulation)
+* https://www.animenewsnetwork.com/
 
 
 ### Where to publish you own comics

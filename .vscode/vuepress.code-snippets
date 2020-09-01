@@ -1,0 +1,26 @@
+{
+	/* STUB
+	* https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables
+	*/
+	"fan-gallery frontmatter": {
+		"prefix": "frontmatter",
+		"body": [
+			"---",
+			"title: ${1:${TM_FILENAME_BASE/[\\-]/ /g}}",
+			"summary: ${2:${TM_FILENAME_BASE/[\\-]/ /g}}",
+			"date: ${3:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE}",
+			"tags:",
+			"- anime",
+			"- ${4}",
+			// "featuredimg: ${5:https://picsum.photos/800/500.webp}",
+			"featuredimg: https://picsum.photos/800/500.webp",
+			"author: avimehenwal",
+			"---",
+			"",
+			"# ${1:$TM_FILENAME}",
+			"",
+			"${0}"
+		],
+		"description": "fan-gallery frontmatter"
+	}
+}
