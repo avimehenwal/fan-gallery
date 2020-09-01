@@ -9,8 +9,8 @@ const pick = require('lodash/pick')
 
 module.exports = themeConfig => {
   themeConfig = Object.assign(themeConfig, {
-    // logo: '/logo.svg',
-    logo: '/fg.svg',
+    logo: '/assets/img/sal.jpg',
+    // logo: '/fg.svg',
     nav: themeConfig.nav || [
       { text: 'Blog', link: '/', },
       { text: 'Tags', link: '/tag/', },

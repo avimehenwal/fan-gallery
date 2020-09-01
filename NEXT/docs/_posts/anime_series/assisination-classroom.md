@@ -1,11 +1,12 @@
 ---
 title: Assisination Classroom
-summary: Kill their sensei for the sake of mankind
 date: 2020-08-31
 tags:
 - anime
 featuredimg: https://figuya.com/uploads/image/file/83017/x_saka77038_c.jpg
 author: avimehenwal
+summary: Kill their sensei for the sake of mankind
+gallery: ../.vuepress/plublic/assets/img
 ---
 
 # Assisination Classroom
@@ -45,7 +46,20 @@ author: avimehenwal
 * Geography, local customs, tourist highlights, history all of it.
 * Assisination doesnt have a curfew ahh
 * transfer student, more like a bonafied killing machine
-* 27 assassins in all, not to shabby
+
+> 27 assassins in all, not to shabby
+
+* Korosensei has a brother, biologically engineered
+* Time to school these kids in art of humuliation
+* He praises our ingenuity like he always does
+* pandemonium time amidst chaos
+* I think this man had one too many taquilla shots
+
+
+*[ingenuity]: the quality of being clever, original, and inventive.
+*[pandemonium]: wild and noisy disorder or confusion; uproar.
+
+
 
 ## Season 2
 

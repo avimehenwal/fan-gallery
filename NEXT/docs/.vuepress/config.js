@@ -1,37 +1,27 @@
-const ImageminWebpWebpackPlugin= require("imagemin-webp-webpack-plugin");
+const ImageminWebpWebpackPlugin = require("imagemin-webp-webpack-plugin");
+const { chainWebpack, configureWebpack } = require('./webpackConfig')
 
 module.exports = {
-  /**
-   * NOTE use vue-svgo-loader
-   * https://github.com/codyrobert/new-portfolio/blob/aa042a15d82edaf0d514430c67cc8adb45a100f3/.vuepress/config.js#L49
-   */
-  // https://github.com/vuejs/vuepress/issues/146
-  chainWebpack: config => {
-    config.module
-      .rule('pug')
-      .test(/\.(jpe?g|png)/)
-      .use('pug-plain-loader')
-        .loader('pug-plain-loader')
-        .end()
-  },
+  chainWebpack,
+  configureWebpack,
   title: 'fan-gallery',
   /**
    * set to github repo if deploying to GH pages
    */
   base: '/fan-gallery/',
-  description: 'Blog example for Mediumish theme with VuePress',
+  description: 'Collection of animes that I enjoyed',
   // build in $(ROOT)/docs for github pages
   dest: '../docs',
   logo: './logo.svg',
   // https://vuepress.vuejs.org/theme/writing-a-theme.html#layout-component
   theme: require.resolve('../../'),
   themeConfig: {
-  authors: [
+    authors: [
       {
-      name: 'Sal',
-      avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
-      linktext: 'Follow',
+        name: 'Sal',
+        avatar: '/assets/img/sal.jpg',
+        link: 'https://wowthemes.net/donate',
+        linktext: 'Follow',
       },
       {
         name: 'John Doe',
@@ -113,7 +103,7 @@ module.exports = {
       shortname: 'avimehenwal',
     },
     newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
+      endpoint: 'https://wowthemes.us11.list-mnage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
     },
     feed: {
       canonical_base: 'https://avimehenwal.github.io/fan-gallery/',
