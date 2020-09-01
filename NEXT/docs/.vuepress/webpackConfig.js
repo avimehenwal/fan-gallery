@@ -25,22 +25,24 @@ module.exports = {
   },
 
   configureWebpack: (config, isServer) => {
+    // enable debug source-maps
+    devtool: 'source-map'
     /**
      * FIXME deal with images
      * https://www.npmjs.com/package/image-webpack-loader
      * ANCHOR compress images
      */
-    config.module.rules.push({
-      test: /\.(png|jpe?g|webp|git|svg|)$/i,
-      use: [{
-        loader: 'img-optimize-loader',
-        options: {
-          compress: {
-            webp: true,
-            // disableOnDevelopment: true,
-          }
-        }
-      }],
-    })
+    // config.module.rules.push({
+    //   test: /\.(png|jpe?g|webp|git|svg|)$/i,
+    //   use: [{
+    //     loader: 'img-optimize-loader',
+    //     options: {
+    //       compress: {
+    //         webp: true,
+    //         // disableOnDevelopment: true,
+    //       }
+    //     }
+    //   }],
+    // })
   }
 }

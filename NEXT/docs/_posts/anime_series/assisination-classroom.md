@@ -55,6 +55,8 @@ gallery: ../.vuepress/plublic/assets/img
 * pandemonium time amidst chaos
 * I think this man had one too many taquilla shots
 
+> This is really turning into a job I can sink my teeths into.
+
 
 *[ingenuity]: the quality of being clever, original, and inventive.
 *[pandemonium]: wild and noisy disorder or confusion; uproar.

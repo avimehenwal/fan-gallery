@@ -118,6 +118,12 @@ module.exports = themeConfig => {
         after: '</div>',
       },
     ],
+    [ 'vuepress-plugin-container', {
+        type: 'tip',
+        defaultTitle: '',
+        before: info => `<div class="tip"><p class="title">${info}</p>`,
+        after: '</div>',
+    },],
     [
       'vuepress-plugin-container',
       {

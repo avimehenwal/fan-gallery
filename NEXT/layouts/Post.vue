@@ -37,8 +37,7 @@
     <!-- Image Gallery -->
     <div v-if="$frontmatter.gallery">
       <div
-        v-for="image in images"
-        :key="image"
+        v-for="image in images" :key="image"
         class="row justify-content-center text-center mt-4 mb-40"
       >
         <div class="col-md-9">

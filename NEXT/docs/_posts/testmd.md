@@ -10,6 +10,11 @@ author: avimehenwal
 
 # Test md
 
+::: tip title
+content
+
+muliti line
+:::
 
 # :star2: Test Markdown
 
@@ -17,6 +22,13 @@ author: avimehenwal
 ### Graphs
 
 [Link to a Graph](../assets/dot/example.dot "dot:")
+
+::: theorem
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus obcaecati sunt ad dolorem praesentium nihil impedit velit necessitatibus unde tempora sapiente debitis numquam, reiciendis aut quos officiis deserunt iure fugiat.
+
+::: right
+eikipedia
+:::
 
 
 ```mermaid
@@ -69,11 +81,6 @@ $$
 
 ## COntainers
 
-::: tip title
-content
-
-muliti line
-:::
 
 ```py
 def abc(self):

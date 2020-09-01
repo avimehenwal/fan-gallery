@@ -36,6 +36,7 @@
         "images",
         "anime",
         "frontmatter",
-        "artwork"
+        "artwork",
+        "css"
     ]
 }
