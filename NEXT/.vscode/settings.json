@@ -17,6 +17,7 @@
     "localization",
     "release",
     "vscode",
-    "webpack"
+    "webpack",
+    "ghpages"
   ]
 }
