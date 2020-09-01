@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avimehenwal.github.io/fan-gallery/</id>
     <title>fan-gallery</title>
-    <updated>2020-09-01T03:13:31.002Z</updated>
+    <updated>2020-09-01T20:53:05.401Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://avimehenwal.github.io/fan-gallery/"/>
     <link rel="self" href="https://avimehenwal.github.io/fan-gallery/feed.atom"/>
@@ -40,12 +40,12 @@
         <summary type="html"><![CDATA[Black Lagoon]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Castlevania]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/">
+        <title type="html"><![CDATA[Drifters]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/">
         </link>
         <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Castlevania]]></summary>
+        <summary type="html"><![CDATA[Drifters]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deamon Slayer]]></title>
@@ -56,12 +56,12 @@
         <summary type="html"><![CDATA[Deamon Slayer]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drifters]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/">
+        <title type="html"><![CDATA[Castlevania]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/">
         </link>
         <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Drifters]]></summary>
+        <summary type="html"><![CDATA[Castlevania]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fire Force]]></title>
@@ -88,20 +88,20 @@
         <summary type="html"><![CDATA[Gurren Lagaan]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kaiji, The ultimate survivor]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kaiji/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kaiji/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kaiji, The ultimate survivor]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Japan Sinks]]></title>
         <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/</id>
         <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/">
         </link>
         <updated>2020-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Japan Sinks]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaiji, The ultimate survivor]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kaiji/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kaiji/">
+        </link>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kaiji, The ultimate survivor]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kakegurui]]></title>
@@ -112,12 +112,12 @@
         <summary type="html"><![CDATA[Kakegurui]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kyhe]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/">
+        <title type="html"><![CDATA[kill la kill]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/">
         </link>
-        <updated>2019-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[kyhe]]></summary>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[kill la kill]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Magi]]></title>
@@ -128,12 +128,12 @@
         <summary type="html"><![CDATA[Magi]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kill la kill]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/">
+        <title type="html"><![CDATA[kyhe]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/">
         </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[kill la kill]]></summary>
+        <updated>2019-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[kyhe]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[One Punch Man]]></title>
@@ -144,14 +144,6 @@
         <summary type="html"><![CDATA[One Punch Man]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Promised Neverland]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Promised Neverland]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seven Deadly Sins]]></title>
         <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/seven-deadly-sins/</id>
         <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/seven-deadly-sins/">
@@ -160,11 +152,19 @@
         <summary type="html"><![CDATA[Seven Deadly Sins]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adventures of Sinbad]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/sindbad/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/sindbad/">
+        <title type="html"><![CDATA[Promised Neverland]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/">
         </link>
         <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Adventures of Sinbad]]></summary>
+        <summary type="html"><![CDATA[Promised Neverland]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steins Gate]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/steins-gate/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/steins-gate/">
+        </link>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Steins Gate]]></summary>
     </entry>
 </feed>
