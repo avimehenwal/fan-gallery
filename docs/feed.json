@@ -6,13 +6,6 @@
     "description": "Collection of animes that I enjoyed",
     "items": [
         {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/how-to-train-your-dragon/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/how-to-train-your-dragon/",
-            "title": "How to train your dragon",
-            "summary": "How to train your dragon",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
             "id": "https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/",
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/",
             "title": "Assisination Classroom",
@@ -20,10 +13,10 @@
             "date_modified": "2020-08-31T00:00:00.000Z"
         },
         {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/",
-            "title": "Beasters",
-            "summary": "Beasters",
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/how-to-train-your-dragon/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/how-to-train-your-dragon/",
+            "title": "How to train your dragon",
+            "summary": "How to train your dragon",
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
@@ -31,13 +24,6 @@
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/blacklagoon/",
             "title": "Black Lagoon",
             "summary": "Black Lagoon",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/",
-            "title": "Drifters",
-            "summary": "Drifters",
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
@@ -52,6 +38,20 @@
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/",
             "title": "Castlevania",
             "summary": "Castlevania",
+            "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/",
+            "title": "Beasters",
+            "summary": "Beasters",
+            "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/drifters/",
+            "title": "Drifters",
+            "summary": "Drifters",
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
@@ -73,13 +73,6 @@
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/gurren-lagaan/",
             "title": "Gurren Lagaan",
             "summary": "Gurren Lagaan",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
-            "title": "Japan Sinks",
-            "summary": "Japan Sinks",
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
@@ -111,6 +104,20 @@
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
+            "title": "Japan Sinks",
+            "summary": "Japan Sinks",
+            "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/",
+            "title": "Promised Neverland",
+            "summary": "Promised Neverland",
+            "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
             "id": "https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/",
             "url": "https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/",
             "title": "kyhe",
@@ -125,24 +132,17 @@
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/sindbad/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/sindbad/",
+            "title": "Adventures of Sinbad",
+            "summary": "Adventures of Sinbad",
+            "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
             "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/seven-deadly-sins/",
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/seven-deadly-sins/",
             "title": "Seven Deadly Sins",
             "summary": "Seven Deadly Sins",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/",
-            "title": "Promised Neverland",
-            "summary": "Promised Neverland",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/steins-gate/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/steins-gate/",
-            "title": "Steins Gate",
-            "summary": "Steins Gate",
             "date_modified": "2020-08-28T00:00:00.000Z"
         }
     ]
