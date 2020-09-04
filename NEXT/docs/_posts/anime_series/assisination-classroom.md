@@ -74,10 +74,31 @@ This is really turning into a job I can sink my teeths into.
 * You are a meticulous man
 * Uhh, and thats all it took to make this punk a delinquent
 
+> A fair amount of trechery is to be expected
+
+* Talent is usullly an invisible trait, its what people dont see.
+* Assassination attempt by a girl with tanticles
+* Tanticle seed, injected to human subjects
+* Alien murdered her big sister (who also happens to be a beloved teacher)
+* Until 2 years ago, he was the assassin reaper
+* Can get sense knocked out of me
+* How do you think I wound up in this place?
+* Of course, everyone wants attention, approval
+* First touch was 3 hours before the moon exploded
+* Antimatter discharge on a lab rat at moon. destroyed 70% of the moon
+* Lets reap the fruits of torture
+
+> Yes way, all the way
+
+* Spear of heaven, shield of death
+* When the moment calls for a decisive attack, you are an assassin
+* Make your run for it.
+* We live to fight another day.
+* A day like today, that I will never see again.
 
 *[meticulous]: showing great attention to detail; very careful and precise.
 *[delinquent]: (typically of a young person) tending to commit crime, particularly minor crime.
-
+*[presumptuous]: (of a person or their behaviour) failing to observe the limits of what is permitted or appropriate.
 
 
 ## Resources
