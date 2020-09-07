@@ -51,3 +51,38 @@ author: avimehenwal
 
 * continues from where 1st part left, 2 assassins survivours
 * Nachi - doppelganger is alive and lives like a bandit
+
+## The Assassin - 2015
+
+* 7th centuary Tang dynasty
+* Assassin apprentince in training
+* I bow to you, your reverence
+* The nun proncess
+* sent to kill her cousin
+* My mother betrothed me to a woman.
+* https://www.google.com/search?q=zither
+* Your skills are unmatched, but your mind is hostage to human sentiments
+
+##  Rurouni Kenshin: Part 1 Origins- 2012
+
+* Story of a wandering swordsman
+
+> Battousai the Killsword - 1868
+
+* [Boshin War](https://en.wikipedia.org/wiki/Boshin_War)
+* Believes in pacifism.
+* Do good in moment-to-moment baises
+* my work maybe of questionable benefit to humanity on the whole.
+* 10 years after restoration - 1878 - catch up with western world
+* Humans are pathetic animals ruled by desires
+  * desire of money
+  * desire of power/strength
+  * desire of pleasure
+* Experiment to turn human subject into mindless animals
+* Carries a reverse blade
+* Battousai imposter in town killing people.
+* A girl helped the businessman manufacture the opium
+
+*[reverence]: reverence
+*[betrothed]: the person to whom one is engaged.
+*[pacifism]: the belief that war and violence are unjustifiable and that all disputes should be settled by peaceful means.
