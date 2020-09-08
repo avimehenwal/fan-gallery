@@ -86,3 +86,33 @@ author: avimehenwal
 *[reverence]: reverence
 *[betrothed]: the person to whom one is engaged.
 *[pacifism]: the belief that war and violence are unjustifiable and that all disputes should be settled by peaceful means.
+
+##  Rurouni Kenshin: Part 2 Kyoto Inferno - 2014
+
+* 1878 - searching for someone for 2 months
+* Makoto Shishio
+* Uses spies to plan home ministers assassination, Lord okubu
+* The dead only wish the living will be happy
+* You will please no one by soiling your little hands
+* Summon the 10 swords
+* The legend just wants to play love suicides
+* You need the willingness to live
+* I cannot die yet, I have someone precious
+* I cant die, I dont want to die.
+* Heavens flash of the flying dragon
+
+## Tokyo Ghoul
+
+* Kaneki
+* Humans think they are the top of food chain, they forget there are creatures who hunt for humans as food
+* ghouls and police comissioned counter-ghouls
+* protagnist mother dies of overwork
+* doves are in ward 222, investigating murders with stoln rings
+* [Kagune](https://tokyoghoul.fandom.com/wiki/Kagune), ghouls predatory organ
+
+## Journey to China - the mystery of dragon seal
+
+* White wizards (trims dragons eyelashes), vs black wizards
+* you are too old to be a tsar
+
+*[tsar]: an emperor of Russia before 1917.
