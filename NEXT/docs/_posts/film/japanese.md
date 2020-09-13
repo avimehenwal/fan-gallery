@@ -116,3 +116,27 @@ author: avimehenwal
 * you are too old to be a tsar
 
 *[tsar]: an emperor of Russia before 1917.
+
+## Flying swords of Dragon Gate
+
+* East and West wing bureau
+
+## Rurouni Kenshin Animated  Movie
+
+* Your entry to our country doesnt give you permission to act like bullies.
+* Dragon hammer slash
+* You dont know my code, but let me tell you, destroy evil
+
+> Death no longer terrifies man, the smell of blood is as common as white plums, so he creates
+> slavery and savagery, which surpass the horror of dying.
+
+* You caused it, you caused the rain to bleed.
+* Nothing you posses should ever smell of blood
+* Remember, iris is most lovely in rain
+* YOu will pay with your labor
+
+> Harnrssing ones powers is hardly an easy task
+
+* with your sword you must touch your opponents heart
+* It must be karma, we never seem to have much luck, do we now
+
