@@ -38,5 +38,20 @@ author: avimehenwal
 * I have been paid to kill 41 people
 * People write the story of theor own end
 
-
 *[fantasized]: indulge in daydreaming about something desired.
+
+## Mortal Engines
+
+> Age of the predator cities of west.
+
+* Prepare to injest
+* 60 minutes war with the Ancients
+* Medusa - nukes
+* The shield wall
+* Pandora SHaw, Hester Shaw
+* Archeaologist, love travelling the world and digging up the
+* Miss Fang - Anti Traction League
+* Shrike
+* Welcome to Airheaven
+* Preemtive strike, we strike first
+
