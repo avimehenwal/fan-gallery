@@ -13,6 +13,7 @@
     "generate": "nuxt build && nuxt export",
     "production": "yarn run build && yarn run start",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "webp": "bats ./scripts/test-compress-images.sh",
     "commit": "git-cz",
     "sr": "semantic-release"
   },
