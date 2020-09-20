@@ -47,6 +47,18 @@ Tokogawa Regeim -> MEgi Era
 * Move back from Kyoyo to Tokyo
 * Guys like him, should not be allowd out of the house
 * The child of god will reappear
+* Christians from holland arc
+* Fake Battosai on kyoto
+* Do you always have to bad mouth people
+* German, black nights and search for elixer of youth
+* One busted wall coming up
+* Why dont we trust him this one time and see what comes out of it.
+* [Fengshui](https://en.wikipedia.org/wiki/Feng_shui)
+* Circle of eternity, water clan
+
+## kenshin
+
+* Miss kauro, I have returned, that I have
 
 ## Resources
 
