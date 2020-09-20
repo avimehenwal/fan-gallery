@@ -140,3 +140,16 @@ author: avimehenwal
 * with your sword you must touch your opponents heart
 * It must be karma, we never seem to have much luck, do we now
 
+## ICHI
+
+> blind woman who knows sword fight
+
+## The Kingdom 2019
+
+* Army of 80,000 men in palace
+* Ryofui army size 200,000
+* [General Ou Ki](https://kingdom.fandom.com/wiki/Ou_Ki)
+* Rebel army, 30 old royal soldiers, 3000 from mountain clan, total 3030
+* Invite inside castle as guests, allies
+* General Saji
+* I will be the first emperor to unify all 7 kingdoms in china
