@@ -8,7 +8,7 @@
 
 SOURCE_FILE="./scripts/compress-images.sh"
 # SOURCE_FILE="$(dirname $0)/compress-images.sh"
-source $SOURCE_FILE ./assets/animes/dragonDogma
+source $SOURCE_FILE ./assets/animes/kingdom
 # source $SOURCE_FILE $1
 
 FILE_COUNT_INP_DIR=$(find $IP_DIR -type f -name '*.png' | wc --lines)
