@@ -55,3 +55,15 @@ author: avimehenwal
 * Welcome to Airheaven
 * Preemtive strike, we strike first
 
+## Enola Holmes
+
+* You are his ward, not mine
+* Look for whats there, not what you want to be there
+* Our future is upto us
+* Protest, unrest, civil disobedience
+* Its good to care for the vurnable, but not if it means risking your life
+* Sometimes you have to let the nature let its course, do you hear me.
+* People dont seem to Want us very much, do they? At least we could be nice to each other.
+* Sometimes you got to dangle your feet in water, to attract the shark
+
+> I fyou are alive, you shoul dbe happy

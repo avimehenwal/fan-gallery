@@ -153,3 +153,19 @@ author: avimehenwal
 * Invite inside castle as guests, allies
 * General Saji
 * I will be the first emperor to unify all 7 kingdoms in china
+
+## The Big Brother
+
+* Liberal thinking
+* start thinking for yourself
+* Knowing is not enough, ability to judge
+* Make time for yourself and rediscover the world.
+* All are educatable, all can be successful.
+* scantily clad
+* I think your pleasure follows pain
+
+> Brevity is the soul of wit.
+
+*[scantily clad]:  inadequately clothed
+
+## Blade of Immortal
