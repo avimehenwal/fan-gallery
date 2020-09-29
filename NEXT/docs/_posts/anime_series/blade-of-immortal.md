@@ -49,4 +49,40 @@ author: avimehenwal
 ## Blade of Immortal - 2019
 
 * One girl against an entire outlaw swordsmen clan
+* Why do you lament?
+* MArtial art organization - Kobusho, regulates swordman ship schools
+* Mugai-ryu
+* Her hairs turn white due to grief, loss of her child in front of her
+* Kagimura habaki (official) poisons 10 itto-ryu members in a banquet
+* you are an object of research
+* 8 days to experiment and make a new immortal
+* Miss Hyakurin - Blonde hair, gets back the original color of her hair and is fired from the tribe
+* Reaserch, transplanted hand shows signs of immortality as well
+
+Itto Ryu
+:   School of swordman ship, your father studied
+
+* Exteriment, chop and left arm and reattch, question is now on the duration of immortality
+* Organ and limb modification testing
+* Almost 70 days of capture and experimentation.
+* How dare you subject the men of Edo like this.
+* Women stages a prison break
+* After the fall of prision, 30 days to destroy itto-ryu
+* Itto-ryu disbanned from Edo, granted 7 days to capitulate
+* [Arrow root soupe](https://www.google.com/search?q=arrowrot+soupe&oq=arrowrot+soupe)
+* Do not falter, we stand together
+* Shira uses manji's hand
+* Shira now has the bloodworms
+* We have been wiped out by an elderly men.
+* Journey to apologize to the families of all the people they have killed
+* Break the chain of curses
+* Ends with a new era
+* Forgets Ryns name, but remembers it before show wraps up
+
+*[lament]: a passionate expression of grief or sorrow.
+*[itto-ryu]: school of swordman ship
+
+## References
+
+* [List of Episodes](https://en.wikipedia.org/wiki/List_of_Blade_of_the_Immortal_episodes)
 
