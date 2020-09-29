@@ -6,18 +6,25 @@
     "description": "Collection of animes that I enjoyed",
     "items": [
         {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/",
-            "title": "Assisination Classroom",
-            "summary": "Kill their sensei for the sake of mankind",
-            "date_modified": "2020-08-31T00:00:00.000Z"
-        },
-        {
             "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/how-to-train-your-dragon/",
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/how-to-train-your-dragon/",
             "title": "How to train your dragon",
             "summary": "How to train your dragon",
             "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/",
+            "title": "blade of immortal",
+            "summary": "blade of immortal",
+            "date_modified": "2020-09-26T00:00:00.000Z"
+        },
+        {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/",
+            "title": "Assisination Classroom",
+            "summary": "Kill their sensei for the sake of mankind",
+            "date_modified": "2020-08-31T00:00:00.000Z"
         },
         {
             "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/blacklagoon/",
@@ -34,6 +41,20 @@
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/",
+            "title": "Castlevania",
+            "summary": "Castlevania",
+            "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/09/20/dragon-dogma/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/09/20/dragon-dogma/",
+            "title": "dragon dogma",
+            "summary": "dragon dogma",
+            "date_modified": "2020-09-20T00:00:00.000Z"
+        },
+        {
             "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/deamon-slayer/",
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/deamon-slayer/",
             "title": "Deamon Slayer",
@@ -48,27 +69,6 @@
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/09/20/dragon-dogma/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/09/20/dragon-dogma/",
-            "title": "dragon dogma",
-            "summary": "dragon dogma",
-            "date_modified": "2020-09-20T00:00:00.000Z"
-        },
-        {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/",
-            "title": "Castlevania",
-            "summary": "Castlevania",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/goblin-slayer/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/goblin-slayer/",
-            "title": "Goblin SLayer",
-            "summary": "Goblin SLayer",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
             "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/fire-force/",
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/fire-force/",
             "title": "Fire Force",
@@ -76,10 +76,10 @@
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
-            "title": "Japan Sinks",
-            "summary": "Japan Sinks",
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/goblin-slayer/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/goblin-slayer/",
+            "title": "Goblin SLayer",
+            "summary": "Goblin SLayer",
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
@@ -97,10 +97,10 @@
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kingdom/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kingdom/",
-            "title": "Kingdom",
-            "summary": "based on a manga series, 2 boys try to the best general in the world",
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/",
+            "title": "Japan Sinks",
+            "summary": "Japan Sinks",
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
@@ -111,6 +111,13 @@
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/",
+            "title": "kill la kill",
+            "summary": "kill la kill",
+            "date_modified": "2020-08-28T00:00:00.000Z"
+        },
+        {
             "id": "https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/",
             "url": "https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/",
             "title": "kenshin",
@@ -118,10 +125,10 @@
             "date_modified": "2020-09-13T00:00:00.000Z"
         },
         {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/",
-            "title": "kill la kill",
-            "summary": "kill la kill",
+            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kingdom/",
+            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/kingdom/",
+            "title": "Kingdom",
+            "summary": "based on a manga series, 2 boys try to the best general in the world",
             "date_modified": "2020-08-28T00:00:00.000Z"
         },
         {
@@ -136,13 +143,6 @@
             "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/magi/",
             "title": "Magi",
             "summary": "Magi",
-            "date_modified": "2020-08-28T00:00:00.000Z"
-        },
-        {
-            "id": "https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/",
-            "url": "https://avimehenwal.github.io/fan-gallery/2020/08/28/promised-neverland/",
-            "title": "Promised Neverland",
-            "summary": "Promised Neverland",
             "date_modified": "2020-08-28T00:00:00.000Z"
         }
     ]
