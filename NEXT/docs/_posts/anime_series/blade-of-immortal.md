@@ -76,6 +76,8 @@ Itto Ryu
 * We have been wiped out by an elderly men.
 * Journey to apologize to the families of all the people they have killed
 * Break the chain of curses
+* Mr Manji gots banished from Edo from shogunates
+* buries his old weapons in ground, in the new world
 * Ends with a new era
 * Forgets Ryns name, but remembers it before show wraps up
 
