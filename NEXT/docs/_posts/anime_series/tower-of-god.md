@@ -86,10 +86,61 @@ How is Bam connected to the tower of God?
 * Golden november
 * Currently there are 27 living princesses.
 
+## Storyline
+
+* Pocket/Arms Inventory
+* Irregulars - Reduce number from 400 to 200
+* Ranker - who have climbed the tower where King Jahad lives
+
+::: tip Shinzu
+Shinzu is the source of the entirity of towers power
+
+* Warriors uses shinzu to fight within the tower.
+:::
+
+* On 30th floor and above, have to deal with concentrated Shinzu on a daily baises.
+* Fooled by Maria just to be betrayed. He was used. His entire family was exiled as soon as maria was choosen
+* Khun - abandoned son of exiled Khun family
+* Dont you wish to protect those innocent eyes, which dont yet know doubt.
+* Bonus test - Crown Game
+  * 5 mins, 5 teams participate simuntaneously
+* Crown game ended without a winner
+* Bam was becoming the Shinzu itself
+
+Team | Description
+-----|-------------
+Fisherman | short range attacks
+Spear berer | long range attacks
+Scout | gather intel for light bearer
+Light bearer | stores and delivers info to team
+Wave Controller | use Shinzu and heal team members
+
+[source](https://towerofgod.fandom.com/wiki/Position)
+
+* Princesses are deeply indebited to powerful authorities
+* Test Director of second floor [hYu_Han_Sung](ttps://towerofgod.fandom.com/wiki/Yu_Han_Sung)
+* Joint position test - game of tag
+* What does a scout do to avoid beccoming a sacrificial pawn?
+* you are hiding IT using a copied lighthouse under the bridge
+* 10 great families
+* Ignition weapon
+* I dont mind waiting for people who are gutsy
+* only 2 wave controllers can advance
+* All tests and rules can be changes at the will of the guardian.o
+* Ren - Royal enforcement division unit #67
+* Entire underwater test was put together to take care of Anak
+    * Towers trash, enemy of Jahad
+* Goto the 77th floor
+
+Irregular
+:   He who opened the doors on his own.
 
 
 ## Resources
 
+* https://towerofgod.fandom.com/wiki/3/400
 * https://www.webtoons.com/en/fantasy/tower-of-god/list?title_no=95
+* [Androssi_Zahard](https://towerofgod.fandom.com/wiki/Androssi_Zahard)
+* [Anak_Zahard](https://towerofgod.fandom.com/wiki/Anak_Zahard)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XuNfSYUqJ78" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
