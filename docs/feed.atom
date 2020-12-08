@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avimehenwal.github.io/fan-gallery/</id>
     <title>fan-gallery</title>
-    <updated>2020-10-15T20:45:56.564Z</updated>
+    <updated>2020-12-08T23:48:15.890Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://avimehenwal.github.io/fan-gallery/"/>
     <link rel="self" href="https://avimehenwal.github.io/fan-gallery/feed.atom"/>
@@ -16,12 +16,12 @@
         <summary type="html"><![CDATA[How to train your dragon]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[blade of immortal]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/">
+        <title type="html"><![CDATA[Beasters]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/">
         </link>
-        <updated>2020-09-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[blade of immortal]]></summary>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beasters]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Black Lagoon]]></title>
@@ -32,12 +32,20 @@
         <summary type="html"><![CDATA[Black Lagoon]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beasters]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/">
+        <title type="html"><![CDATA[Castlevania]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/">
         </link>
         <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Beasters]]></summary>
+        <summary type="html"><![CDATA[Castlevania]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[blade of immortal]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/">
+        </link>
+        <updated>2020-09-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[blade of immortal]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Assisination Classroom]]></title>
@@ -46,14 +54,6 @@
         </link>
         <updated>2020-08-31T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Kill their sensei for the sake of mankind]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castlevania]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Castlevania]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deamon Slayer]]></title>
@@ -80,12 +80,12 @@
         <summary type="html"><![CDATA[Drifters]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[god of high school]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/10/14/god-of-high-school/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/10/14/god-of-high-school/">
+        <title type="html"><![CDATA[Fate]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/10/18/fate/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/10/18/fate/">
         </link>
-        <updated>2020-10-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[god of high school]]></summary>
+        <updated>2020-10-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[fate]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fire Force]]></title>
@@ -104,6 +104,38 @@
         <summary type="html"><![CDATA[Goblin SLayer]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[god of high school]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/10/14/god-of-high-school/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/10/14/god-of-high-school/">
+        </link>
+        <updated>2020-10-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[god of high school]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gurren Lagaan]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/gurren-lagaan/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/gurren-lagaan/">
+        </link>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gurren Lagaan]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[haikyu]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/12/07/haikyu/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/12/07/haikyu/">
+        </link>
+        <updated>2020-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[haikyu]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan Sinks]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/">
+        </link>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Japan Sinks]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kaiji, The ultimate survivor]]></title>
         <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kaiji/</id>
         <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kaiji/">
@@ -120,22 +152,6 @@
         <summary type="html"><![CDATA[Kakegurui]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gurren Lagaan]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/gurren-lagaan/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/gurren-lagaan/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gurren Lagaan]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan Sinks]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/japan-sinks/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Japan Sinks]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kenshin]]></title>
         <id>https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/</id>
         <link href="https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/">
@@ -144,27 +160,11 @@
         <summary type="html"><![CDATA[kenshin]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[kyhe]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2019/08/31/kyhe/">
-        </link>
-        <updated>2019-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[kyhe]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kill la kill]]></title>
         <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/</id>
         <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/">
         </link>
         <updated>2020-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[kill la kill]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magi]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/magi/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/magi/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Magi]]></summary>
     </entry>
 </feed>
