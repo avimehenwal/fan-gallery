@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://avimehenwal.github.io/fan-gallery/</id>
     <title>fan-gallery</title>
-    <updated>2020-12-08T23:48:15.890Z</updated>
+    <updated>2020-12-09T00:35:03.959Z</updated>
     <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
     <link rel="alternate" href="https://avimehenwal.github.io/fan-gallery/"/>
     <link rel="self" href="https://avimehenwal.github.io/fan-gallery/feed.atom"/>
@@ -24,20 +24,20 @@
         <summary type="html"><![CDATA[Beasters]]></summary>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Assisination Classroom]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/">
+        </link>
+        <updated>2020-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kill their sensei for the sake of mankind]]></summary>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Black Lagoon]]></title>
         <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/blacklagoon/</id>
         <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/blacklagoon/">
         </link>
         <updated>2020-08-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Black Lagoon]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Castlevania]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Castlevania]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[blade of immortal]]></title>
@@ -48,12 +48,12 @@
         <summary type="html"><![CDATA[blade of immortal]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assisination Classroom]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/">
+        <title type="html"><![CDATA[Castlevania]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/castlevania/">
         </link>
-        <updated>2020-08-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kill their sensei for the sake of mankind]]></summary>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Castlevania]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Deamon Slayer]]></title>
@@ -144,20 +144,20 @@
         <summary type="html"><![CDATA[Kaiji, The ultimate survivor]]></summary>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kakegurui]]></title>
-        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kakegurui/</id>
-        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kakegurui/">
-        </link>
-        <updated>2020-08-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kakegurui]]></summary>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[kenshin]]></title>
         <id>https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/</id>
         <link href="https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/">
         </link>
         <updated>2020-09-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[kenshin]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakegurui]]></title>
+        <id>https://avimehenwal.github.io/fan-gallery/2020/08/28/kakegurui/</id>
+        <link href="https://avimehenwal.github.io/fan-gallery/2020/08/28/kakegurui/">
+        </link>
+        <updated>2020-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kakegurui]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[kill la kill]]></title>
