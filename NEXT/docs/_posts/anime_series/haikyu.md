@@ -19,6 +19,9 @@ author: avimehenwal
 4. Decoy
 5. Spiker
 
+- Setter dump
+- 5 team attack
+
 ## Season 1 - 2014
 
 - He makes up for his bad technique with raw athelticism
@@ -70,6 +73,11 @@ tacky
 
 # Season 4 - Over the Top - Part 1
 
+> Play to win, play not to loose
+
+- I became a manager on a whim
+- Opportunity presents themselves to those who prepare
+- Whats a long ralley of willpower
 -
 
 ## Resources

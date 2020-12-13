@@ -4,7 +4,7 @@
         <title>fan-gallery</title>
         <link>https://avimehenwal.github.io/fan-gallery/</link>
         <description>Collection of animes that I enjoyed</description>
-        <lastBuildDate>Wed, 09 Dec 2020 00:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 01:55:23 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
         <atom:link href="https://avimehenwal.github.io/fan-gallery/feed.atom" rel="self" type="application/rss+xml"/>
@@ -16,32 +16,18 @@
             <description><![CDATA[How to train your dragon]]></description>
         </item>
         <item>
+            <title><![CDATA[attack on titan]]></title>
+            <link>https://avimehenwal.github.io/fan-gallery/2020/12/10/attack-on-titan/</link>
+            <guid>https://avimehenwal.github.io/fan-gallery/2020/12/10/attack-on-titan/</guid>
+            <pubDate>Thu, 10 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[attack on titan]]></description>
+        </item>
+        <item>
             <title><![CDATA[Beasters]]></title>
             <link>https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/</link>
             <guid>https://avimehenwal.github.io/fan-gallery/2020/08/28/beasters/</guid>
             <pubDate>Fri, 28 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[Beasters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Assisination Classroom]]></title>
-            <link>https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/</link>
-            <guid>https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/</guid>
-            <pubDate>Mon, 31 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Kill their sensei for the sake of mankind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Black Lagoon]]></title>
-            <link>https://avimehenwal.github.io/fan-gallery/2020/08/28/blacklagoon/</link>
-            <guid>https://avimehenwal.github.io/fan-gallery/2020/08/28/blacklagoon/</guid>
-            <pubDate>Fri, 28 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Black Lagoon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[blade of immortal]]></title>
-            <link>https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/</link>
-            <guid>https://avimehenwal.github.io/fan-gallery/2020/09/26/blade-of-immortal/</guid>
-            <pubDate>Sat, 26 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[blade of immortal]]></description>
         </item>
         <item>
             <title><![CDATA[Castlevania]]></title>
@@ -72,6 +58,13 @@
             <description><![CDATA[Drifters]]></description>
         </item>
         <item>
+            <title><![CDATA[Fairy Tale]]></title>
+            <link>https://avimehenwal.github.io/fan-gallery/2020/12/11/fairy-tale/</link>
+            <guid>https://avimehenwal.github.io/fan-gallery/2020/12/11/fairy-tale/</guid>
+            <pubDate>Fri, 11 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[fairy tale]]></description>
+        </item>
+        <item>
             <title><![CDATA[Fate]]></title>
             <link>https://avimehenwal.github.io/fan-gallery/2020/10/18/fate/</link>
             <guid>https://avimehenwal.github.io/fan-gallery/2020/10/18/fate/</guid>
@@ -79,11 +72,11 @@
             <description><![CDATA[fate]]></description>
         </item>
         <item>
-            <title><![CDATA[Fire Force]]></title>
-            <link>https://avimehenwal.github.io/fan-gallery/2020/08/28/fire-force/</link>
-            <guid>https://avimehenwal.github.io/fan-gallery/2020/08/28/fire-force/</guid>
-            <pubDate>Fri, 28 Aug 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[Fire Force]]></description>
+            <title><![CDATA[Assisination Classroom]]></title>
+            <link>https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/</link>
+            <guid>https://avimehenwal.github.io/fan-gallery/2020/08/31/assisination-classroom/</guid>
+            <pubDate>Mon, 31 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Kill their sensei for the sake of mankind]]></description>
         </item>
         <item>
             <title><![CDATA[Goblin SLayer]]></title>
@@ -128,13 +121,6 @@
             <description><![CDATA[Kaiji, The ultimate survivor]]></description>
         </item>
         <item>
-            <title><![CDATA[kenshin]]></title>
-            <link>https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/</link>
-            <guid>https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/</guid>
-            <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
-            <description><![CDATA[kenshin]]></description>
-        </item>
-        <item>
             <title><![CDATA[Kakegurui]]></title>
             <link>https://avimehenwal.github.io/fan-gallery/2020/08/28/kakegurui/</link>
             <guid>https://avimehenwal.github.io/fan-gallery/2020/08/28/kakegurui/</guid>
@@ -142,11 +128,25 @@
             <description><![CDATA[Kakegurui]]></description>
         </item>
         <item>
+            <title><![CDATA[kenshin]]></title>
+            <link>https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/</link>
+            <guid>https://avimehenwal.github.io/fan-gallery/2020/09/13/kenshin/</guid>
+            <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[kenshin]]></description>
+        </item>
+        <item>
             <title><![CDATA[kill la kill]]></title>
             <link>https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/</link>
             <guid>https://avimehenwal.github.io/fan-gallery/2020/08/28/kill-la-kill/</guid>
             <pubDate>Fri, 28 Aug 2020 00:00:00 GMT</pubDate>
             <description><![CDATA[kill la kill]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Kingdom]]></title>
+            <link>https://avimehenwal.github.io/fan-gallery/2020/08/28/kingdom/</link>
+            <guid>https://avimehenwal.github.io/fan-gallery/2020/08/28/kingdom/</guid>
+            <pubDate>Fri, 28 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[based on a manga series, 2 boys try to the best general in the world]]></description>
         </item>
     </channel>
 </rss>
