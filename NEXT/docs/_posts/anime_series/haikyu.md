@@ -78,7 +78,9 @@ tacky
 - I became a manager on a whim
 - Opportunity presents themselves to those who prepare
 - Whats a long ralley of willpower
--
+- Its not just the enemies that can push you beyond your limits
+- A first touch, that allowed his teammates to breath again
+- Speed is very very strong weapon, very charming and cool, but its not invincible
 
 ## Resources
 
