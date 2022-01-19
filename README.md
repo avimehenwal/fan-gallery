@@ -1,7 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0cb96c66-4baa-4eb2-bc20-ae8616ac584d/deploy-status)](https://app.netlify.com/sites/fangallery/deploys)
-![Build production bundles (using cache)](https://github.com/avimehenwal/fan-gallery/workflows/Build%20production%20bundles%20(using%20cache)/badge.svg)
+![Build production bundles (using cache)](<https://github.com/avimehenwal/fan-gallery/workflows/Build%20production%20bundles%20(using%20cache)/badge.svg>)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-
 
 # :neckbeard: fan-gallery
 
@@ -29,11 +28,11 @@ Images:
 
 ---
 
-* What is an [anime]?
-  * Its a form of art
-* What is a [manga]?
-  * Japanese name for a comics, [zine], [webtoons], fanzine
-* [Types of animations?](https://youtu.be/NZbrdCAsYqU)
+- What is an [anime]?
+  - Its a form of art
+- What is a [manga]?
+  - Japanese name for a comics, [zine], [webtoons], fanzine
+- [Types of animations?](https://youtu.be/NZbrdCAsYqU)
 
 [manga]: https://en.wikipedia.org/wiki/Manga
 [anime]: https://en.wikipedia.org/wiki/Anime
@@ -42,26 +41,26 @@ Images:
 
 ## :ledger: ToDO
 
-* [x] Add anime list
-* [x] Add manga details
-* [x] Add google analytics
-* [x] Card and image skeleton placeholders for upcoming content
-* https://www.gamevix.com/games/browse/best-rated
-* [x] Use @nuxt/Components
-* [x] Use [chart.js](https://github.com/chartjs/Chart.js/releases/tag/v2.9.3)
-  * No need anymore to manually import them in the script section
-* [ ] Use @nuxt/Content
-  * write in a `content/` directory
-* [ ] Add character details
-* [ ] Add data transform Mixin
-* [ ] Pass information from index page to description page using URL
+- [x] Add anime list
+- [x] Add manga details
+- [x] Add google analytics
+- [x] Card and image skeleton placeholders for upcoming content
+- https://www.gamevix.com/games/browse/best-rated
+- [x] Use @nuxt/Components
+- [x] Use [chart.js](https://github.com/chartjs/Chart.js/releases/tag/v2.9.3)
+  - No need anymore to manually import them in the script section
+- [ ] Use @nuxt/Content
+  - write in a `content/` directory
+- [ ] Add character details
+- [ ] Add data transform Mixin
+- [ ] Pass information from index page to description page using URL
 
 ## :closed_book: Learning
 
-* Image lazy loading
-* force client side rendering
-* Google blocks CORS requests
-  * Who can access what resource from whome
+- Image lazy loading
+- force client side rendering
+- Google blocks CORS requests
+  - Who can access what resource from whome
 
 ```
 # Update yarn packages
@@ -71,15 +70,14 @@ yarn outdated
 
 ## :beetle: Issues
 
-* https://stackoverflow.com/questions/5881139/how-to-block-iframe-call
-* https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json
-
+- https://stackoverflow.com/questions/5881139/how-to-block-iframe-call
+- https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json
 
 ### :tractor: Parsing data from google sheets
 
-* The JSON retrieves data from each cell starting from the top-left most and then pushes the data one by one into an array.
-* [Find the formula for all index belonging to a certain table column](https://medium.com/dali-lab/google-sheets-and-json-easy-backend-e29e9ef3df2)
-* [self authored npm package vue-gsheets](https://www.npmjs.com/package/vue-gsheets)
+- The JSON retrieves data from each cell starting from the top-left most and then pushes the data one by one into an array.
+- [Find the formula for all index belonging to a certain table column](https://medium.com/dali-lab/google-sheets-and-json-easy-backend-e29e9ef3df2)
+- [self authored npm package vue-gsheets](https://www.npmjs.com/package/vue-gsheets)
 
 ```
 table_header = 1
@@ -91,8 +89,8 @@ items_1 = 1 + [0..] table_total_columns
 
 ## :boat: Resources
 
-* https://www.grapecity.com/blogs/adding-excel-import-and-export-to-your-vue-app
-* https://stackoverflow.com/questions/44312494/how-to-create-per-workspace-snippets-in-vscode
+- https://www.grapecity.com/blogs/adding-excel-import-and-export-to-your-vue-app
+- https://stackoverflow.com/questions/44312494/how-to-create-per-workspace-snippets-in-vscode
 
 ## :monkey: Project Links
 
@@ -104,7 +102,6 @@ items_1 = 1 + [0..] table_total_columns
 
 [issue]: https://github.com/avimehenwal/fan-gallery/issues
 
-
 ## :herb: License
 
 MIT
@@ -113,7 +110,7 @@ MIT
 
 ## TODO
 
-* [ ] use webP images
+- [ ] use webP images
 
 ```bash
 for file in *
@@ -129,16 +126,15 @@ for file in *; do cwebp -progress "$file" -o "./webp/$file.webp"; done
 
 I am looking for Jobs ... :sunglasses:
 
-* [Github](https://github.com/avimehenwal/)
-* [My Website](https://avimehenwal.in)
-* [Twitter Handle](https://twitter.com/avimehenwal)
-* [LinkedIn](https://in.linkedin.com/in/avimehenwal)
-* [Stackoverflow](https://stackoverflow.com/users/1915935/avi-mehenwal)
+- [Github](https://github.com/avimehenwal/)
+- [My Website](https://avimehenwal.in)
+- [Twitter Handle](https://twitter.com/avimehenwal)
+- [LinkedIn](https://in.linkedin.com/in/avimehenwal)
+- [Stackoverflow](https://stackoverflow.com/users/1915935/avi-mehenwal)
 
 <a href="https://www.buymeacoffee.com/F1j07cV" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
- Spread Love :hearts: and not :no_entry_sign: hatred   [![Twitter Follow](https://img.shields.io/twitter/follow/avimehenwal.svg?style=social)](https://twitter.com/avimehenwal)
-
+Spread Love :hearts: and not :no_entry_sign: hatred [![Twitter Follow](https://img.shields.io/twitter/follow/avimehenwal.svg?style=social)](https://twitter.com/avimehenwal)
 
 ![Full page dashboard view](/demo/fill-page-stats.png)
 ![Full Home page](/demo/full-home-page.png)

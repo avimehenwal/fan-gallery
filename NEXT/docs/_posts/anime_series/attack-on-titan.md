@@ -11,6 +11,14 @@ author: avimehenwal
 
 # Attack on Titan
 
+- Executioner from hell
+- The whole purpose of attack titan is to transcend time itself, Freedom titan
+
 ## Season 4
 
-* Fort Silva has fallen
+- Fort Silva has fallen
+- Warrior Unit of eldian titan warriors
+
+## Season 5
+
+- Managed to pull through Survey Corp using his sheer determination alone
