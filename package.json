@@ -33,7 +33,7 @@
     "d3-graphviz": "^3.1.0",
     "lodash": "^4.17.19",
     "mermaid.cli": "^0.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nuxt": "^2.13.3",
     "remark-container": "^0.1.2",
     "remark-emoji": "^2.1.0",
